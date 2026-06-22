@@ -78,7 +78,7 @@ campaign-analysis-dashboard/
 │
 ├── Campaign_Analysis_Dashboard.pbix   # Main Power BI file
 ├── data/
-│   └── campaign_data.csv              # Raw dataset
+│   └──                   # Raw dataset
 ├── screenshots/
 │   ├── campaign_overview.png
 │   ├── channel_performance.png
