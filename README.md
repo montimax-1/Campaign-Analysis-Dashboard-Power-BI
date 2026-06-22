@@ -102,10 +102,13 @@ campaign-analysis-dashboard/
 
 ## 📸 Dashboard Screenshots
 
-> *(Add your screenshots here after uploading to the `/screenshots` folder)*
 
-![Campaign Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/b611e9bcc15d40614aae5f6c8bd0a79be0b13e67/screenshots/Campaign%20Analysis%20DAshbaord1-images-0.jpg)
-![Channel Performance Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/84766d23297c00452257fa9006d6fba17b2df475/screenshots/Campaign%20Analysis%20DAshbaord1-images-1.jpg)
+![Campaign Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/8a1c41eb9cbe069a82a5c2a4648c8e7f893c99d7/screenshots/campaign_overview.png)
+![Channel Performance Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/8a1c41eb9cbe069a82a5c2a4648c8e7f893c99d7/screenshots/channel_performance.png)
+![Conversion Rio Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/8a1c41eb9cbe069a82a5c2a4648c8e7f893c99d7/screenshots/conversion_roi.png)
+![Customer Engagement Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/8a1c41eb9cbe069a82a5c2a4648c8e7f893c99d7/screenshots/customer_engagement.png)
+![Executive Summary Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/8a1c41eb9cbe069a82a5c2a4648c8e7f893c99d7/screenshots/executive_summary.png)
+
 
 ---
 
