@@ -105,7 +105,7 @@ campaign-analysis-dashboard/
 > *(Add your screenshots here after uploading to the `/screenshots` folder)*
 
 ![Campaign Overview](screenshots/)
-![Channel Performance](screenshots/Campaign_Analysis DAshbaord1-images-1.jpg)
+screenshots/Campaign Analysis DAshbaord1-images-0.jpg
 
 ---
 
