@@ -104,8 +104,8 @@ campaign-analysis-dashboard/
 
 > *(Add your screenshots here after uploading to the `/screenshots` folder)*
 
-![Campaign Overview](screenshots/campaign_overview.png)
-![Channel Performance](screenshots/channel_performance.png)
+![Campaign Overview](screenshots/)
+![Channel Performance](screenshots/Campaign_Analysis DAshbaord1-images-1.jpg)
 
 ---
 
@@ -120,10 +120,10 @@ campaign-analysis-dashboard/
 
 ## 👤 Author
 
-**Monti Kumar Raj**  
-MCA Final Year | Data Analyst | SQL • Python • Power BI  
-📧 [your email]  
-🔗 [LinkedIn profile URL]
+Monti Kumar Raj 
+MCA Final Year | Data Analyst | SQL • Python • Power BI  • Adv. ExceI  
+📧 montisrajj@gmail.com 
+🔗 https://www.linkedin.com/in/monti-raj/
 
 ---
 
