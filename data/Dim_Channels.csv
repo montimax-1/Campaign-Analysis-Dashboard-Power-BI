@@ -1,0 +1,9 @@
+channel_id,channel_name,channel_type,cost_model
+1,Email,Digital,CPM
+2,SMS,Digital,Flat Fee
+3,Google Ads,Digital,Flat Fee
+4,Facebook,Digital,Flat Fee
+5,Instagram,Digital,Flat Fee
+6,Branch,Offline,CPM
+7,Website,Digital,Flat Fee
+8,Mobile App,Digital,CPC

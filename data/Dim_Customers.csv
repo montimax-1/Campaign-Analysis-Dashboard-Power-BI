@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,age_group,gender,region,income_bracket,customer_segment
+10001,Charles,Cantu,26-35,Male,West,200k+,Retail Banking
+10002,Danielle,Bradley,36-45,Male,East,100-200k,Corporate
+10003,Brittany,Bryan,36-45,Male,South,200k+,Retail Banking
+10004,Amanda,Austin,60+,Male,West,200k+,Retail Banking
+10005,Richard,Griffith,36-45,Male,North,<50k,Retail Banking
+10006,Michelle,Dillon,18-25,Other,West,<50k,Retail Banking
+10007,Rachel,Ward,36-45,Female,North,100-200k,Corporate
+10008,Michael,Rangel,26-35,Female,North,50-100k,Priority
+10009,Priscilla,Aguirre,60+,Male,South,100-200k,Priority
+10010,Danielle,Moore,18-25,Male,North,100-200k,Corporate
+10011,Eric,Miller,26-35,Male,North,200k+,Retail Banking
+10012,Jennifer,Mills,46-60,Other,South,50-100k,Corporate
+10013,Joseph,Mercado,36-45,Female,North,200k+,Corporate
+10014,James,Ochoa,26-35,Female,West,100-200k,Retail Banking
+10015,Rebekah,Montgomery,26-35,Male,North,100-200k,Retail Banking
+10016,Caitlyn,Smith,36-45,Other,West,100-200k,Corporate
+10017,Laura,Thomas,26-35,Female,North,<50k,Priority
+10018,Julie,Carter,46-60,Female,East,50-100k,Corporate
+10019,Marcus,Mitchell,26-35,Male,East,<50k,Priority
+10020,William,Ramirez,60+,Female,East,<50k,Priority
+10021,Toni,Young,36-45,Other,South,50-100k,Priority
+10022,Lori,Murphy,60+,Other,South,50-100k,Priority
+10023,Amy,Rogers,18-25,Female,East,<50k,Retail Banking
+10024,Joshua,Wilson,18-25,Male,North,200k+,Priority
+10025,Johnny,Evans,60+,Other,North,200k+,Priority
+10026,Erin,Burke,26-35,Other,North,<50k,Priority
+10027,Jade,Thompson,36-45,Female,North,<50k,Corporate
+10028,John,Hall,46-60,Male,South,50-100k,Priority
+10029,Paul,Reyes,18-25,Female,South,100-200k,Priority
+10030,Lindsey,James,60+,Male,South,100-200k,Corporate
+10031,Stephen,Becker,46-60,Other,West,100-200k,Corporate
+10032,Tristan,Powell,46-60,Female,West,200k+,Priority
+10033,Philip,Ryan,18-25,Other,West,50-100k,Priority
+10034,Michelle,Carroll,36-45,Female,South,50-100k,Priority
+10035,Alex,Hernandez,26-35,Male,West,200k+,Retail Banking
+10036,Alicia,Raymond,26-35,Male,South,200k+,Retail Banking
+10037,Eric,Allen,26-35,Female,East,100-200k,Corporate
+10038,Kelli,Hanna,46-60,Other,South,50-100k,Corporate
+10039,Susan,Chang,46-60,Other,East,100-200k,Corporate
+10040,Joseph,Jackson,46-60,Male,South,50-100k,Priority
+10041,Daniel,Vasquez,46-60,Male,West,<50k,Retail Banking
+10042,Peter,Martin,46-60,Female,South,50-100k,Priority
+10043,Jeremy,Jenkins,46-60,Other,East,<50k,Priority
+10044,Laura,Calhoun,36-45,Male,West,<50k,Corporate
+10045,Patricia,Kerr,46-60,Other,North,50-100k,Corporate
+10046,Natalie,Patrick,46-60,Other,West,200k+,Corporate
+10047,Samuel,Stout,36-45,Male,North,200k+,Priority
+10048,Joseph,Crawford,26-35,Female,West,<50k,Priority
+10049,Karen,Lee,18-25,Female,South,50-100k,Retail Banking
+10050,Eric,Hunter,18-25,Female,South,100-200k,Corporate
+10051,Jessica,Baker,36-45,Other,South,50-100k,Priority
+10052,Mitchell,Navarro,36-45,Male,West,100-200k,Priority
+10053,Amy,Delgado,18-25,Female,South,50-100k,Retail Banking
+10054,Derrick,Zuniga,36-45,Female,East,<50k,Retail Banking
+10055,Kyle,Foster,60+,Female,North,200k+,Priority
+10056,Michael,Cook,18-25,Other,North,100-200k,Corporate
+10057,Sylvia,Goodman,18-25,Female,West,50-100k,Retail Banking
+10058,Kristen,Ingram,26-35,Male,North,<50k,Corporate
+10059,Charles,Hicks,46-60,Male,East,100-200k,Priority
+10060,Scott,Brown,18-25,Male,North,<50k,Corporate
+10061,Jacqueline,Brown,60+,Male,East,100-200k,Corporate
+10062,Nichole,Haas,36-45,Male,East,200k+,Priority
+10063,Mary,Cohen,46-60,Male,East,<50k,Retail Banking
+10064,Diane,Campos,36-45,Male,South,<50k,Retail Banking
+10065,Susan,Aguirre,26-35,Other,East,50-100k,Priority
+10066,Lynn,Powers,60+,Other,South,50-100k,Retail Banking
+10067,Theresa,Marsh,60+,Female,West,100-200k,Corporate
+10068,Clinton,Curtis,26-35,Other,East,200k+,Priority
+10069,Jeffrey,Reid,18-25,Male,East,<50k,Retail Banking
+10070,Eric,Walsh,18-25,Other,East,50-100k,Retail Banking
+10071,Mike,Shepherd,36-45,Female,South,200k+,Priority
+10072,Kara,Burnett,26-35,Male,South,50-100k,Corporate
+10073,Shari,Henderson,26-35,Other,East,200k+,Priority
+10074,Scott,Mccoy,26-35,Female,West,<50k,Corporate
+10075,James,Chavez,46-60,Female,North,100-200k,Priority
+10076,Shawn,Gibson,26-35,Female,North,<50k,Retail Banking
+10077,Daniel,Wang,18-25,Male,South,50-100k,Retail Banking
+10078,Jeremy,Richard,60+,Female,East,50-100k,Retail Banking
+10079,Alan,Lee,26-35,Male,West,200k+,Retail Banking
+10080,Thomas,Morales,26-35,Other,South,50-100k,Retail Banking
+10081,Evelyn,Welch,36-45,Male,North,200k+,Corporate
+10082,Holly,Atkinson,46-60,Female,East,50-100k,Priority
+10083,Brian,Lamb,60+,Other,South,<50k,Retail Banking
+10084,James,Turner,26-35,Male,South,50-100k,Priority
+10085,Dawn,Mack,36-45,Other,West,<50k,Corporate
+10086,Christopher,Rowe,18-25,Male,East,200k+,Corporate
+10087,Leah,Nguyen,60+,Male,West,50-100k,Retail Banking
+10088,Jacob,Johnson,46-60,Other,North,50-100k,Retail Banking
+10089,Ronald,Reyes,26-35,Female,North,200k+,Retail Banking
+10090,Kristi,Santiago,18-25,Female,East,100-200k,Priority
+10091,Tracey,Powers,36-45,Male,West,200k+,Priority
+10092,Heather,Gordon,18-25,Other,North,100-200k,Priority
+10093,Bonnie,Franklin,46-60,Female,South,200k+,Corporate
+10094,Patrick,Smith,60+,Other,South,50-100k,Corporate
+10095,Elizabeth,Jones,60+,Male,East,100-200k,Retail Banking
+10096,Suzanne,Mcdaniel,26-35,Other,East,200k+,Priority
+10097,Alan,Hamilton,36-45,Female,South,50-100k,Corporate
+10098,Brooke,Cervantes,36-45,Male,East,100-200k,Corporate
+10099,Donald,Mitchell,46-60,Male,South,<50k,Corporate
+10100,Isabella,Love,26-35,Male,North,100-200k,Corporate
+10101,Alexander,Anderson,26-35,Male,South,50-100k,Retail Banking
+10102,Julie,Gilbert,60+,Female,West,100-200k,Retail Banking
+10103,Paige,Lee,18-25,Male,East,200k+,Priority
+10104,Michael,Warren,18-25,Other,West,50-100k,Corporate
+10105,Melanie,Thompson,26-35,Other,North,50-100k,Corporate
+10106,Kyle,Anderson,46-60,Female,West,200k+,Retail Banking
+10107,Ashley,Hogan,36-45,Female,North,100-200k,Retail Banking
+10108,Elizabeth,Thompson,46-60,Female,North,50-100k,Retail Banking
+10109,Jonathan,Lara,18-25,Other,West,100-200k,Corporate
+10110,Patrick,Thornton,60+,Male,East,200k+,Corporate
+10111,Jesus,Simmons,60+,Female,North,200k+,Retail Banking
+10112,Alexis,Gray,18-25,Other,South,100-200k,Retail Banking
+10113,Drew,Jackson,36-45,Male,East,200k+,Priority
+10114,Jaime,Estes,36-45,Other,East,200k+,Priority
+10115,Aaron,Gonzales,60+,Female,North,<50k,Corporate
+10116,Laura,Hart,18-25,Male,North,100-200k,Priority
+10117,Brandon,Keller,46-60,Female,South,50-100k,Priority
+10118,Glenn,Hayes,26-35,Other,West,100-200k,Priority
+10119,Laura,Reilly,26-35,Other,West,50-100k,Corporate
+10120,John,Gutierrez,60+,Other,South,200k+,Retail Banking
+10121,Tommy,Lam,60+,Male,East,50-100k,Priority
+10122,Anthony,Cunningham,60+,Other,East,100-200k,Corporate
+10123,Anthony,Cook,60+,Female,West,50-100k,Corporate
+10124,Shane,Sloan,36-45,Male,South,100-200k,Corporate
+10125,Jennifer,Lewis,36-45,Female,North,100-200k,Retail Banking
+10126,Patricia,Meyer,36-45,Male,East,<50k,Retail Banking
+10127,Steven,Bentley,18-25,Female,East,100-200k,Retail Banking
+10128,Mark,Kelley,18-25,Other,West,200k+,Retail Banking
+10129,Lisa,Wilson,46-60,Other,North,50-100k,Priority
+10130,John,Barajas,36-45,Male,South,<50k,Corporate
+10131,William,Parker,18-25,Other,West,50-100k,Retail Banking
+10132,Patricia,Waters,26-35,Female,West,200k+,Corporate
+10133,Vanessa,Davis,26-35,Other,South,<50k,Priority
+10134,Reginald,Good,26-35,Male,East,50-100k,Priority
+10135,Courtney,Ferguson,18-25,Male,North,100-200k,Corporate
+10136,Kendra,Adams,36-45,Male,West,100-200k,Corporate
+10137,Brian,Atkinson,18-25,Male,West,<50k,Priority
+10138,Robert,Diaz,46-60,Other,South,<50k,Priority
+10139,Daniel,Watts,46-60,Female,North,100-200k,Corporate
+10140,Kim,Castaneda,60+,Male,North,200k+,Retail Banking
+10141,Ashley,Hudson,60+,Other,East,100-200k,Corporate
+10142,Brandon,Contreras,26-35,Other,South,<50k,Priority
+10143,Jenny,Chan,18-25,Other,East,50-100k,Priority
+10144,David,Stuart,26-35,Male,North,<50k,Corporate
+10145,Ashley,Gonzalez,26-35,Other,West,<50k,Priority
+10146,Joseph,Hart,60+,Female,West,50-100k,Priority
+10147,Martha,Hughes,36-45,Female,North,100-200k,Retail Banking
+10148,David,Leonard,36-45,Male,East,100-200k,Retail Banking
+10149,Kayla,Gentry,60+,Other,North,<50k,Priority
+10150,Brandy,Dunn,26-35,Male,North,50-100k,Priority
+10151,Samantha,Herrera,46-60,Female,West,100-200k,Priority
+10152,Deborah,Turner,26-35,Female,East,100-200k,Corporate
+10153,Kimberly,Davidson,26-35,Female,North,50-100k,Priority
+10154,Kevin,Castro,18-25,Female,North,50-100k,Corporate
+10155,Chad,Bennett,36-45,Other,West,50-100k,Priority
+10156,Gina,Mathis,26-35,Other,South,200k+,Retail Banking
+10157,Jessica,Wallace,46-60,Female,West,100-200k,Corporate
+10158,Christopher,Cortez,18-25,Other,East,100-200k,Corporate
+10159,Robert,Martinez,18-25,Other,West,50-100k,Priority
+10160,Amy,Beck,36-45,Other,South,100-200k,Retail Banking
+10161,Tabitha,Hoover,46-60,Female,East,50-100k,Retail Banking
+10162,Jay,Blevins,18-25,Male,North,200k+,Priority
+10163,Linda,Delacruz,60+,Female,West,<50k,Retail Banking
+10164,Cheryl,Harris,26-35,Male,West,100-200k,Priority
+10165,Elizabeth,Bates,46-60,Other,West,50-100k,Corporate
+10166,Jennifer,Olson,26-35,Male,South,<50k,Retail Banking
+10167,Steven,Oconnor,46-60,Male,South,200k+,Priority
+10168,Cindy,Hicks,60+,Male,South,<50k,Retail Banking
+10169,Kelly,Bullock,36-45,Male,West,100-200k,Corporate
+10170,Christopher,Howard,26-35,Male,West,50-100k,Corporate
+10171,Raymond,Ramirez,60+,Female,North,200k+,Retail Banking
+10172,Rita,Little,60+,Female,North,100-200k,Priority
+10173,Jeremy,Fry,46-60,Other,North,50-100k,Priority
+10174,Harold,Wright,18-25,Female,East,100-200k,Corporate
+10175,Adam,Gonzalez,60+,Other,East,<50k,Retail Banking
+10176,Sean,Mayo,26-35,Female,West,<50k,Corporate
+10177,Christopher,Garner,26-35,Male,West,50-100k,Priority
+10178,Jacob,Gomez,60+,Male,West,<50k,Corporate
+10179,Timothy,Brown,18-25,Female,East,50-100k,Retail Banking
+10180,Michael,Fletcher,26-35,Other,South,50-100k,Priority
+10181,Kendra,Hunter,18-25,Other,West,100-200k,Priority
+10182,Mary,Sanchez,60+,Female,West,<50k,Corporate
+10183,Bradley,Juarez,26-35,Other,West,<50k,Retail Banking
+10184,Catherine,Horton,36-45,Male,West,50-100k,Corporate
+10185,Jorge,Robertson,36-45,Other,South,<50k,Priority
+10186,Christopher,Rich,18-25,Other,East,200k+,Retail Banking
+10187,Brianna,Schwartz,18-25,Other,South,100-200k,Priority
+10188,Michelle,Solis,36-45,Other,South,200k+,Retail Banking
+10189,Gregory,Davis,36-45,Female,North,100-200k,Corporate
+10190,Noah,Webster,46-60,Other,South,200k+,Corporate
+10191,Meagan,Wells,36-45,Male,East,<50k,Priority
+10192,Ryan,Espinoza,46-60,Male,East,50-100k,Retail Banking
+10193,Melissa,Singleton,36-45,Other,West,<50k,Priority
+10194,Alexander,Gentry,18-25,Female,South,100-200k,Corporate
+10195,Eric,Daniels,60+,Female,West,100-200k,Corporate
+10196,Michaela,Barnes,36-45,Female,West,100-200k,Retail Banking
+10197,Patricia,Johnson,46-60,Other,South,<50k,Corporate
+10198,David,Becker,60+,Female,South,50-100k,Retail Banking
+10199,Julia,Pham,46-60,Female,North,<50k,Corporate
+10200,Stephanie,Simpson,36-45,Female,West,50-100k,Retail Banking
+10201,James,Brown,46-60,Other,South,50-100k,Retail Banking
+10202,Nicole,Jones,26-35,Other,West,200k+,Priority
+10203,Randy,Watson,26-35,Other,North,100-200k,Corporate
+10204,Steven,Barton,26-35,Other,North,200k+,Corporate
+10205,April,Burton,26-35,Female,West,<50k,Corporate
+10206,Elizabeth,Green,46-60,Female,East,100-200k,Corporate
+10207,William,Barrett,36-45,Male,West,<50k,Priority
+10208,Scott,Robinson,46-60,Other,North,200k+,Corporate
+10209,Kaitlyn,Barker,26-35,Other,West,<50k,Retail Banking
+10210,Morgan,Wheeler,18-25,Female,North,50-100k,Retail Banking
+10211,Harold,Houston,36-45,Male,East,<50k,Priority
+10212,Mary,Johnson,26-35,Female,North,<50k,Priority
+10213,Kevin,Robinson,60+,Other,North,<50k,Corporate
+10214,David,Montes,18-25,Female,East,50-100k,Retail Banking
+10215,Ryan,Bowman,60+,Female,East,200k+,Priority
+10216,Kelly,Collins,60+,Other,South,200k+,Corporate
+10217,Jessica,Mack,46-60,Male,North,200k+,Retail Banking
+10218,David,Randolph,60+,Other,South,50-100k,Corporate
+10219,Nancy,Sims,46-60,Other,South,100-200k,Retail Banking
+10220,Jamie,Krause,26-35,Other,West,100-200k,Corporate
+10221,Charles,Clarke,36-45,Female,West,200k+,Priority
+10222,Angelica,Gallagher,18-25,Other,West,50-100k,Corporate
+10223,Donald,Ellis,36-45,Female,South,200k+,Retail Banking
+10224,Craig,Woodard,26-35,Female,West,50-100k,Corporate
+10225,Mary,Hanna,36-45,Other,South,200k+,Corporate
+10226,Ryan,Pollard,18-25,Male,West,100-200k,Retail Banking
+10227,Cole,Colon,46-60,Female,West,200k+,Corporate
+10228,Karen,Mays,18-25,Other,West,100-200k,Corporate
+10229,Richard,Rodgers,46-60,Female,South,100-200k,Corporate
+10230,Christopher,Hayes,36-45,Male,North,100-200k,Priority
+10231,Chad,Leonard,60+,Male,North,200k+,Priority
+10232,Christopher,Miles,18-25,Male,East,<50k,Priority
+10233,Lance,Nelson,46-60,Male,South,<50k,Retail Banking
+10234,Tammy,Hernandez,36-45,Female,West,200k+,Retail Banking
+10235,Dean,Miranda,60+,Male,South,100-200k,Priority
+10236,Jeffery,Poole,46-60,Other,East,<50k,Corporate
+10237,Andrew,Shelton,26-35,Female,South,50-100k,Retail Banking
+10238,Ryan,Lyons,18-25,Other,South,<50k,Retail Banking
+10239,Tyler,Garcia,18-25,Male,South,<50k,Retail Banking
+10240,Jonathan,Lee,46-60,Male,North,<50k,Priority
+10241,Connie,Stone,26-35,Male,South,200k+,Priority
+10242,Gina,Alexander,26-35,Male,South,100-200k,Priority
+10243,Ashley,Townsend,60+,Other,South,200k+,Retail Banking
+10244,Allen,Floyd,60+,Other,East,50-100k,Priority
+10245,Kelly,Wiley,46-60,Other,West,<50k,Priority
+10246,Jared,Jones,26-35,Other,West,100-200k,Priority
+10247,Alexis,Harris,26-35,Female,North,50-100k,Retail Banking
+10248,Brian,Potter,60+,Male,East,100-200k,Retail Banking
+10249,Eileen,Reynolds,36-45,Male,South,<50k,Priority
+10250,Kevin,Rivera,26-35,Male,South,200k+,Priority
+10251,Jennifer,Contreras,36-45,Male,South,200k+,Priority
+10252,Matthew,Morgan,46-60,Other,West,<50k,Priority
+10253,Garrett,Hill,60+,Female,West,<50k,Corporate
+10254,Craig,Smith,60+,Female,East,<50k,Priority
+10255,Mitchell,Gibson,26-35,Female,East,200k+,Corporate
+10256,Rebecca,Ray,18-25,Male,East,200k+,Retail Banking
+10257,Norman,Sharp,18-25,Male,West,100-200k,Retail Banking
+10258,Michelle,Knapp,46-60,Female,South,200k+,Priority
+10259,Lauren,Brown,26-35,Female,West,200k+,Retail Banking
+10260,Erin,Campbell,60+,Male,North,<50k,Priority
+10261,Kyle,Stuart,60+,Male,South,<50k,Corporate
+10262,Shawn,Walker,60+,Male,South,200k+,Retail Banking
+10263,Ann,Crawford,46-60,Male,North,100-200k,Priority
+10264,William,Jarvis,60+,Male,West,50-100k,Priority
+10265,Monica,Beard,26-35,Male,North,100-200k,Retail Banking
+10266,Heather,Griffin,36-45,Other,North,<50k,Priority
+10267,Laurie,Kim,36-45,Female,North,50-100k,Priority
+10268,Cynthia,Smith,46-60,Male,West,200k+,Retail Banking
+10269,Evan,Henry,60+,Female,South,100-200k,Priority
+10270,David,Cox,26-35,Other,North,200k+,Retail Banking
+10271,Toni,Gonzalez,60+,Male,South,50-100k,Retail Banking
+10272,Mary,Hendricks,36-45,Female,East,100-200k,Corporate
+10273,Stephanie,Rasmussen,36-45,Other,West,200k+,Priority
+10274,Jessica,Jones,26-35,Female,East,50-100k,Corporate
+10275,Nicholas,Lewis,18-25,Female,East,50-100k,Corporate
+10276,Angela,Hammond,26-35,Male,East,50-100k,Corporate
+10277,Ashley,Underwood,60+,Male,West,50-100k,Priority
+10278,Sharon,Morris,26-35,Male,East,50-100k,Priority
+10279,Richard,Cummings,46-60,Other,South,<50k,Retail Banking
+10280,Daniel,Manning,36-45,Female,North,<50k,Corporate
+10281,Devon,Daugherty,18-25,Other,West,200k+,Retail Banking
+10282,Lisa,Gonzalez,60+,Female,East,100-200k,Corporate
+10283,James,Wise,18-25,Female,South,50-100k,Corporate
+10284,Karen,Robinson,36-45,Female,North,<50k,Priority
+10285,Robert,Orr,36-45,Female,East,<50k,Priority
+10286,Danielle,Pearson,36-45,Female,North,<50k,Corporate
+10287,Sharon,Oconnor,36-45,Other,South,200k+,Priority
+10288,Samuel,Boone,26-35,Other,West,50-100k,Retail Banking
+10289,Michael,Crawford,60+,Female,North,100-200k,Retail Banking
+10290,Alexis,Bishop,18-25,Male,North,200k+,Retail Banking
+10291,Jeffrey,Thornton,26-35,Other,South,200k+,Priority
+10292,Caleb,Stephens,36-45,Other,North,100-200k,Priority
+10293,Darren,Dixon,46-60,Female,West,<50k,Priority
+10294,Jose,Carter,18-25,Female,East,50-100k,Corporate
+10295,Jennifer,Cline,36-45,Male,North,50-100k,Retail Banking
+10296,Miguel,Kelly,36-45,Female,South,50-100k,Retail Banking
+10297,James,Todd,36-45,Other,West,<50k,Priority
+10298,Thomas,Shepherd,18-25,Other,North,50-100k,Priority
+10299,David,Martin,18-25,Male,West,<50k,Priority
+10300,Christina,Chavez,18-25,Other,South,200k+,Corporate
+10301,Mark,Barnett,36-45,Other,North,<50k,Priority
+10302,Teresa,English,26-35,Other,West,100-200k,Corporate
+10303,Raymond,Torres,36-45,Female,East,<50k,Priority
+10304,Christopher,Jones,26-35,Female,North,200k+,Priority
+10305,Summer,Cobb,26-35,Other,West,100-200k,Retail Banking
+10306,Timothy,Fitzgerald,60+,Male,South,<50k,Retail Banking
+10307,John,King,26-35,Female,North,200k+,Priority
+10308,Rachel,Gonzales,26-35,Other,East,100-200k,Priority
+10309,Hannah,Phillips,46-60,Male,West,200k+,Retail Banking
+10310,Andrew,Ramirez,60+,Other,East,200k+,Corporate
+10311,Eric,Mckee,36-45,Male,West,200k+,Corporate
+10312,Maria,King,46-60,Female,West,50-100k,Priority
+10313,Jessica,Michael,18-25,Other,North,<50k,Priority
+10314,Denise,Watson,60+,Male,East,50-100k,Corporate
+10315,Brett,Dean,60+,Female,South,100-200k,Retail Banking
+10316,George,Sanders,26-35,Female,South,100-200k,Retail Banking
+10317,Samantha,Mejia,46-60,Other,West,50-100k,Retail Banking
+10318,Scott,Lopez,60+,Other,South,<50k,Retail Banking
+10319,David,Smith,36-45,Male,South,100-200k,Corporate
+10320,Michelle,Macias,26-35,Other,West,200k+,Retail Banking
+10321,Manuel,Bates,46-60,Male,North,<50k,Retail Banking
+10322,Yvette,Schmidt,36-45,Other,South,100-200k,Priority
+10323,Brett,Perry,46-60,Female,South,200k+,Retail Banking
+10324,Logan,Cervantes,46-60,Other,South,200k+,Retail Banking
+10325,George,Ward,26-35,Male,South,200k+,Corporate
+10326,Lisa,Dunn,46-60,Other,East,50-100k,Retail Banking
+10327,Douglas,Curry,46-60,Female,West,100-200k,Retail Banking
+10328,Tamara,Richard,36-45,Female,North,100-200k,Corporate
+10329,Tracy,Ellis,26-35,Other,West,<50k,Priority
+10330,Jon,Farrell,26-35,Male,East,<50k,Corporate
+10331,Jonathan,Murphy,60+,Male,East,100-200k,Corporate
+10332,Lisa,Ochoa,18-25,Other,South,<50k,Priority
+10333,Erin,Tran,36-45,Female,North,200k+,Corporate
+10334,Deborah,Burns,36-45,Other,South,50-100k,Priority
+10335,Zachary,Bennett,26-35,Female,East,200k+,Corporate
+10336,Deanna,Ward,46-60,Female,South,100-200k,Priority
+10337,Todd,Robinson,46-60,Other,West,50-100k,Retail Banking
+10338,Larry,Smith,26-35,Female,East,50-100k,Retail Banking
+10339,Joshua,Wiley,60+,Female,South,<50k,Corporate
+10340,Keith,Davis,36-45,Female,East,50-100k,Retail Banking
+10341,Joanne,Nelson,46-60,Other,East,200k+,Retail Banking
+10342,Michael,Macdonald,18-25,Other,West,<50k,Priority
+10343,Sarah,Perez,46-60,Female,East,200k+,Priority
+10344,Billy,Morris,18-25,Other,North,200k+,Corporate
+10345,Mikayla,Arnold,26-35,Male,West,<50k,Corporate
+10346,George,Boyd,60+,Other,West,100-200k,Priority
+10347,Jerry,Snyder,18-25,Other,South,100-200k,Priority
+10348,Richard,Johnson,18-25,Other,West,<50k,Retail Banking
+10349,Robert,Goodwin,36-45,Other,West,200k+,Corporate
+10350,Ashley,Mullen,26-35,Male,South,<50k,Priority
+10351,Barbara,Cobb,26-35,Male,West,200k+,Priority
+10352,Robin,Davis,60+,Other,North,<50k,Corporate
+10353,Duane,Campbell,46-60,Male,East,200k+,Priority
+10354,Theresa,Ford,36-45,Male,South,50-100k,Corporate
+10355,Brian,Aguirre,18-25,Male,South,100-200k,Priority
+10356,Michelle,Miller,26-35,Male,North,50-100k,Priority
+10357,Jennifer,Bruce,26-35,Male,West,50-100k,Corporate
+10358,Ashley,Williams,36-45,Female,South,50-100k,Corporate
+10359,Sierra,Campos,36-45,Male,North,<50k,Retail Banking
+10360,Tamara,Miller,60+,Other,North,100-200k,Corporate
+10361,Laura,Aguilar,36-45,Female,North,100-200k,Priority
+10362,Rebekah,Larson,60+,Male,South,<50k,Priority
+10363,Adam,Washington,46-60,Female,East,200k+,Retail Banking
+10364,Joshua,Hill,46-60,Female,West,200k+,Corporate
+10365,Jennifer,Martin,36-45,Other,West,<50k,Retail Banking
+10366,Dustin,Wood,60+,Female,East,200k+,Priority
+10367,Jennifer,Alvarez,36-45,Female,East,<50k,Corporate
+10368,Luke,Sandoval,18-25,Female,South,100-200k,Retail Banking
+10369,Sarah,King,60+,Other,West,50-100k,Priority
+10370,Brenda,Hamilton,60+,Male,West,100-200k,Retail Banking
+10371,Jason,Cooper,46-60,Other,West,100-200k,Priority
+10372,Karl,Moss,18-25,Female,North,<50k,Priority
+10373,Stephanie,Salazar,18-25,Other,South,50-100k,Priority
+10374,Anthony,Reynolds,26-35,Male,North,100-200k,Corporate
+10375,Jennifer,Cook,26-35,Male,North,<50k,Corporate
+10376,Dana,Miller,46-60,Female,North,50-100k,Retail Banking
+10377,Kim,Oliver,36-45,Female,South,<50k,Retail Banking
+10378,Robert,Reeves,18-25,Other,West,100-200k,Priority
+10379,Samantha,Gonzalez,36-45,Male,South,<50k,Corporate
+10380,Ashley,Robinson,18-25,Other,East,100-200k,Corporate
+10381,Joshua,Summers,60+,Other,West,<50k,Priority
+10382,Kelly,Campbell,46-60,Female,South,100-200k,Retail Banking
+10383,Joshua,Gomez,26-35,Male,South,200k+,Retail Banking
+10384,Rachel,Massey,18-25,Other,East,100-200k,Retail Banking
+10385,Jill,Brown,26-35,Other,West,200k+,Priority
+10386,Thomas,Rodriguez,36-45,Female,North,50-100k,Corporate
+10387,Destiny,Murphy,36-45,Male,East,50-100k,Priority
+10388,Roy,Sharp,46-60,Female,West,100-200k,Priority
+10389,Emily,Gregory,18-25,Female,North,50-100k,Priority
+10390,Renee,Rivas,26-35,Other,West,50-100k,Corporate
+10391,Roy,Kelly,60+,Male,East,200k+,Corporate
+10392,Laura,Shaw,18-25,Female,South,100-200k,Retail Banking
+10393,Holly,Cordova,46-60,Male,South,200k+,Priority
+10394,Terri,Larson,18-25,Male,North,50-100k,Priority
+10395,Regina,Baxter,46-60,Other,East,50-100k,Priority
+10396,John,Long,26-35,Female,East,50-100k,Corporate
+10397,Micheal,Garner,46-60,Female,South,100-200k,Retail Banking
+10398,Edward,Klein,26-35,Female,West,200k+,Corporate
+10399,Mark,Parsons,36-45,Male,West,200k+,Retail Banking
+10400,Ronald,Walton,18-25,Other,South,100-200k,Retail Banking
+10401,Barbara,Payne,26-35,Other,West,100-200k,Retail Banking
+10402,Daniel,Turner,60+,Female,East,200k+,Priority
+10403,Erica,King,18-25,Female,West,200k+,Retail Banking
+10404,Angela,Crawford,46-60,Other,North,100-200k,Priority
+10405,Robert,Burton,46-60,Other,South,200k+,Retail Banking
+10406,Shawn,Smith,18-25,Other,North,200k+,Corporate
+10407,Robert,Rogers,46-60,Male,North,<50k,Corporate
+10408,James,Davis,26-35,Female,East,<50k,Corporate
+10409,Tammy,Davis,36-45,Male,East,100-200k,Corporate
+10410,Angela,Weaver,18-25,Male,North,50-100k,Retail Banking
+10411,Paul,Jones,18-25,Male,North,<50k,Priority
+10412,Yvonne,Olson,36-45,Female,North,50-100k,Retail Banking
+10413,Sandra,Freeman,18-25,Other,North,50-100k,Corporate
+10414,Belinda,Smith,26-35,Other,East,50-100k,Retail Banking
+10415,Adam,Hayes,46-60,Female,North,50-100k,Corporate
+10416,Lisa,Palmer,26-35,Male,East,100-200k,Retail Banking
+10417,Amy,Burgess,26-35,Female,East,100-200k,Corporate
+10418,Andrew,Williams,60+,Male,East,100-200k,Priority
+10419,Aaron,Vincent,18-25,Female,North,<50k,Priority
+10420,Joseph,Weber,46-60,Male,East,<50k,Corporate
+10421,Donald,Roberson,26-35,Female,West,100-200k,Priority
+10422,Shawn,Graham,36-45,Other,North,100-200k,Retail Banking
+10423,Janice,West,36-45,Male,West,<50k,Retail Banking
+10424,Savannah,Edwards,60+,Other,North,100-200k,Priority
+10425,Kevin,Lopez,46-60,Other,East,<50k,Corporate
+10426,Wendy,Rogers,26-35,Male,West,200k+,Priority
+10427,Kelsey,Black,46-60,Male,West,50-100k,Retail Banking
+10428,Amber,Robinson,46-60,Other,West,<50k,Priority
+10429,Michael,Norris,36-45,Male,South,100-200k,Retail Banking
+10430,Daniel,Andrews,46-60,Male,East,100-200k,Corporate
+10431,Haley,Potter,46-60,Male,North,50-100k,Priority
+10432,Timothy,Keith,60+,Male,West,<50k,Corporate
+10433,Jessica,Olsen,36-45,Other,South,200k+,Retail Banking
+10434,Michael,Morris,60+,Female,South,<50k,Retail Banking
+10435,Phillip,Webb,26-35,Female,South,<50k,Priority
+10436,Christopher,Noble,18-25,Other,West,50-100k,Corporate
+10437,Laura,Williams,46-60,Female,West,<50k,Corporate
+10438,Andrew,Fox,60+,Male,South,100-200k,Corporate
+10439,Kayla,Taylor,36-45,Male,South,200k+,Priority
+10440,Richard,Harrison,26-35,Female,West,100-200k,Priority
+10441,Justin,Schwartz,46-60,Male,South,50-100k,Retail Banking
+10442,Paul,Flores,36-45,Male,East,<50k,Retail Banking
+10443,Anna,James,26-35,Female,East,<50k,Retail Banking
+10444,Christopher,Ramsey,26-35,Female,North,200k+,Corporate
+10445,David,Patterson,46-60,Male,North,<50k,Corporate
+10446,Lauren,Terry,26-35,Other,West,200k+,Retail Banking
+10447,Victoria,Turner,60+,Male,East,200k+,Retail Banking
+10448,Bruce,Ramos,18-25,Other,South,100-200k,Priority
+10449,Sara,Moreno,26-35,Other,East,100-200k,Retail Banking
+10450,Mary,Adams,46-60,Male,West,50-100k,Retail Banking
+10451,Kevin,Lopez,36-45,Female,South,<50k,Retail Banking
+10452,Alexa,White,60+,Other,East,100-200k,Priority
+10453,Emily,Brown,18-25,Male,North,50-100k,Retail Banking
+10454,Christie,Santos,18-25,Other,South,200k+,Corporate
+10455,Steven,Scott,60+,Female,East,50-100k,Corporate
+10456,Lee,Valenzuela,36-45,Other,West,100-200k,Priority
+10457,Christopher,Shelton,60+,Other,South,200k+,Priority
+10458,Virginia,Bell,18-25,Male,East,100-200k,Corporate
+10459,Bryan,Richardson,18-25,Male,West,200k+,Priority
+10460,Ryan,Joseph,46-60,Other,East,200k+,Priority
+10461,Marie,Mullins,26-35,Other,South,200k+,Retail Banking
+10462,Anna,Gonzalez,60+,Female,East,<50k,Priority
+10463,Brian,Chen,36-45,Male,East,<50k,Priority
+10464,Harry,Kim,60+,Female,West,<50k,Priority
+10465,Peggy,Morgan,26-35,Female,West,200k+,Retail Banking
+10466,Robert,Chan,26-35,Other,East,50-100k,Corporate
+10467,Charles,Davidson,26-35,Male,West,200k+,Priority
+10468,Whitney,Wells,26-35,Female,West,200k+,Corporate
+10469,Meagan,Patterson,26-35,Male,North,200k+,Priority
+10470,Laura,Campbell,60+,Female,East,50-100k,Priority
+10471,Brittany,Lloyd,60+,Female,North,100-200k,Priority
+10472,Jennifer,Mccarthy,18-25,Other,West,100-200k,Corporate
+10473,Kevin,Smith,60+,Male,West,50-100k,Retail Banking
+10474,Joseph,Bell,36-45,Other,North,50-100k,Priority
+10475,James,Mckay,46-60,Female,South,<50k,Corporate
+10476,Jesus,Carter,26-35,Female,North,50-100k,Corporate
+10477,Andre,Allen,60+,Other,West,50-100k,Corporate
+10478,Susan,Ross,36-45,Female,North,50-100k,Retail Banking
+10479,Elizabeth,Navarro,26-35,Female,West,<50k,Corporate
+10480,Wendy,Dorsey,26-35,Male,East,50-100k,Retail Banking
+10481,Andrew,Stafford,36-45,Other,South,100-200k,Corporate
+10482,Cynthia,Huffman,36-45,Female,North,50-100k,Priority
+10483,Heather,Shelton,18-25,Female,South,100-200k,Priority
+10484,Ashley,Hopkins,26-35,Male,South,<50k,Priority
+10485,Henry,Lopez,60+,Female,East,100-200k,Retail Banking
+10486,Janice,Walker,46-60,Other,East,200k+,Priority
+10487,Charles,Taylor,26-35,Male,West,<50k,Retail Banking
+10488,Faith,Solis,26-35,Female,South,50-100k,Priority
+10489,Steven,Taylor,60+,Other,North,200k+,Priority
+10490,Katherine,Williams,18-25,Male,West,100-200k,Priority
+10491,Anthony,Ochoa,26-35,Other,South,<50k,Retail Banking
+10492,James,Garza,18-25,Male,South,<50k,Priority
+10493,Kayla,Adams,36-45,Female,South,<50k,Corporate
+10494,Angel,Kelly,18-25,Other,South,50-100k,Priority
+10495,Meredith,Brown,46-60,Other,South,<50k,Corporate
+10496,Sarah,Singleton,46-60,Female,West,50-100k,Priority
+10497,Rachel,Davis,18-25,Male,North,200k+,Retail Banking
+10498,Matthew,Cannon,60+,Female,West,100-200k,Corporate
+10499,Patricia,Anderson,36-45,Male,West,<50k,Corporate
+10500,Ryan,Copeland,46-60,Female,East,200k+,Retail Banking
+10501,Jennifer,Johnson,26-35,Other,West,100-200k,Priority
+10502,Tammy,Cuevas,36-45,Male,South,50-100k,Corporate
+10503,Robert,Mccarty,36-45,Other,North,50-100k,Retail Banking
+10504,Rebecca,Vega,60+,Female,West,200k+,Retail Banking
+10505,Bianca,Brewer,18-25,Other,North,50-100k,Priority
+10506,Susan,Velez,36-45,Other,West,<50k,Retail Banking
+10507,David,Thomas,60+,Female,North,200k+,Priority
+10508,Jason,Raymond,36-45,Female,West,50-100k,Retail Banking
+10509,Cathy,Johnson,46-60,Other,West,<50k,Priority
+10510,Jacob,Barnes,26-35,Other,East,100-200k,Corporate
+10511,Kelly,Hale,36-45,Female,North,<50k,Retail Banking
+10512,Robert,Gonzalez,18-25,Female,North,50-100k,Priority
+10513,Susan,Young,46-60,Female,South,50-100k,Retail Banking
+10514,Amy,Wood,60+,Other,South,50-100k,Priority
+10515,Monique,Smith,26-35,Female,North,50-100k,Priority
+10516,Guy,Harris,26-35,Other,South,100-200k,Priority
+10517,Brittany,Brown,26-35,Female,North,200k+,Retail Banking
+10518,Mark,Jarvis,36-45,Other,East,100-200k,Retail Banking
+10519,Michael,Douglas,46-60,Other,South,200k+,Priority
+10520,David,Martin,18-25,Other,South,100-200k,Corporate
+10521,Sarah,Jones,46-60,Female,West,200k+,Priority
+10522,Jeremiah,Meyers,60+,Other,South,50-100k,Priority
+10523,Mary,Reynolds,18-25,Other,South,200k+,Corporate
+10524,Kimberly,Clark,60+,Male,North,<50k,Corporate
+10525,Matthew,Little,36-45,Male,West,100-200k,Corporate
+10526,Susan,Brown,46-60,Other,South,100-200k,Priority
+10527,James,Carter,26-35,Other,North,100-200k,Priority
+10528,Lisa,Stewart,26-35,Other,South,200k+,Corporate
+10529,Chad,Townsend,26-35,Other,North,50-100k,Retail Banking
+10530,Lisa,Morales,46-60,Male,West,200k+,Corporate
+10531,Sarah,Leon,46-60,Male,East,100-200k,Retail Banking
+10532,Alejandra,Thomas,46-60,Other,West,50-100k,Retail Banking
+10533,Cody,Lyons,36-45,Male,South,200k+,Corporate
+10534,Thomas,Patton,60+,Female,South,<50k,Retail Banking
+10535,Lawrence,Mcdonald,26-35,Female,East,50-100k,Corporate
+10536,Jessica,Ramirez,36-45,Other,East,50-100k,Priority
+10537,Savannah,Leonard,46-60,Female,South,<50k,Corporate
+10538,Gabriel,Wright,26-35,Other,West,200k+,Priority
+10539,Cassandra,Edwards,18-25,Male,West,200k+,Retail Banking
+10540,Sarah,Brooks,60+,Other,West,200k+,Priority
+10541,Alexis,Hess,18-25,Female,West,<50k,Corporate
+10542,Vanessa,Krause,36-45,Male,South,200k+,Corporate
+10543,Brian,Odom,18-25,Other,North,50-100k,Corporate
+10544,Timothy,Chambers,36-45,Female,South,50-100k,Corporate
+10545,Teresa,Nelson,18-25,Other,North,100-200k,Retail Banking
+10546,Jose,Carter,36-45,Female,South,<50k,Retail Banking
+10547,Cory,Torres,36-45,Female,East,100-200k,Priority
+10548,Shelby,Lara,36-45,Other,South,100-200k,Corporate
+10549,Joyce,Little,36-45,Female,North,50-100k,Corporate
+10550,Steven,Davis,46-60,Other,West,<50k,Corporate
+10551,Austin,Hurley,18-25,Male,South,200k+,Priority
+10552,Barry,Roth,36-45,Female,East,200k+,Corporate
+10553,Richard,Molina,36-45,Female,South,50-100k,Priority
+10554,Joe,York,36-45,Other,South,100-200k,Priority
+10555,Peter,Blanchard,60+,Female,North,50-100k,Corporate
+10556,Melanie,Herrera,26-35,Other,East,100-200k,Priority
+10557,Morgan,Morrison,26-35,Female,West,200k+,Retail Banking
+10558,Laura,Palmer,26-35,Male,East,50-100k,Priority
+10559,Christopher,Bernard,18-25,Female,West,50-100k,Corporate
+10560,Logan,Harvey,36-45,Other,North,100-200k,Corporate
+10561,Kristen,Howell,60+,Male,South,50-100k,Corporate
+10562,Karina,Garcia,60+,Female,West,100-200k,Retail Banking
+10563,Lynn,Newman,46-60,Female,West,50-100k,Priority
+10564,Brenda,Flores,26-35,Other,West,200k+,Priority
+10565,Joseph,Smith,60+,Male,South,50-100k,Corporate
+10566,Tiffany,Choi,18-25,Male,North,50-100k,Retail Banking
+10567,Carrie,Thompson,18-25,Male,East,50-100k,Retail Banking
+10568,Christina,Mcbride,18-25,Male,East,100-200k,Retail Banking
+10569,Tara,Garcia,60+,Male,East,200k+,Retail Banking
+10570,Michael,Richardson,26-35,Other,South,50-100k,Corporate
+10571,Denise,Rojas,60+,Male,North,100-200k,Retail Banking
+10572,John,Smith,46-60,Other,South,<50k,Priority
+10573,David,Dean,26-35,Male,South,50-100k,Retail Banking
+10574,Heather,Carney,46-60,Male,West,50-100k,Retail Banking
+10575,Stephanie,Moore,26-35,Male,North,100-200k,Corporate
+10576,David,Hendricks,26-35,Female,North,100-200k,Corporate
+10577,Troy,Wilkinson,18-25,Male,South,100-200k,Retail Banking
+10578,Heather,Chavez,36-45,Male,East,100-200k,Priority
+10579,Jamie,Wright,36-45,Female,South,100-200k,Corporate
+10580,Kylie,Hodges,18-25,Male,West,200k+,Priority
+10581,Charles,Hardy,36-45,Other,North,200k+,Priority
+10582,Kaylee,Smith,60+,Male,East,50-100k,Corporate
+10583,Tonya,Pacheco,46-60,Male,South,50-100k,Priority
+10584,Debra,Weber,36-45,Female,East,50-100k,Corporate
+10585,Jose,Horn,18-25,Other,South,200k+,Priority
+10586,Theodore,Santiago,26-35,Other,East,<50k,Retail Banking
+10587,Betty,Stevens,36-45,Male,South,100-200k,Retail Banking
+10588,Courtney,White,18-25,Female,East,100-200k,Corporate
+10589,Meredith,Schultz,26-35,Female,East,200k+,Corporate
+10590,Tara,Dalton,36-45,Other,North,50-100k,Priority
+10591,Andrea,Thornton,60+,Male,North,200k+,Corporate
+10592,Pamela,Davis,26-35,Female,East,50-100k,Priority
+10593,Theresa,Walker,36-45,Female,East,200k+,Priority
+10594,Mark,Knapp,26-35,Female,East,100-200k,Retail Banking
+10595,Michael,Johnson,46-60,Male,West,50-100k,Retail Banking
+10596,Jason,Roberts,18-25,Male,East,100-200k,Corporate
+10597,Andrew,Alvarado,46-60,Other,South,<50k,Corporate
+10598,Brian,Winters,18-25,Male,North,<50k,Corporate
+10599,Adam,Davila,18-25,Female,West,200k+,Corporate
+10600,Nancy,Hayden,26-35,Female,South,100-200k,Priority
+10601,Robert,Barrett,36-45,Female,East,200k+,Corporate
+10602,Melissa,Gibbs,46-60,Male,North,200k+,Retail Banking
+10603,Jason,Thompson,60+,Female,East,100-200k,Priority
+10604,Paula,Lloyd,46-60,Male,South,200k+,Corporate
+10605,Kevin,Cole,46-60,Female,East,200k+,Retail Banking
+10606,John,Scott,36-45,Other,South,<50k,Corporate
+10607,Gregory,Salas,36-45,Other,West,50-100k,Priority
+10608,Mary,Young,46-60,Male,North,50-100k,Retail Banking
+10609,Jonathan,Smith,18-25,Male,West,100-200k,Priority
+10610,Kathy,Hall,46-60,Other,West,50-100k,Retail Banking
+10611,Vicki,Morgan,26-35,Female,East,50-100k,Priority
+10612,John,Cox,18-25,Other,West,50-100k,Retail Banking
+10613,Cathy,Lopez,60+,Male,North,<50k,Priority
+10614,Joshua,Taylor,60+,Male,South,<50k,Priority
+10615,Laura,Gonzalez,36-45,Other,East,<50k,Retail Banking
+10616,Monica,Aguilar,26-35,Other,North,100-200k,Priority
+10617,Emily,Small,18-25,Other,West,100-200k,Corporate
+10618,Eric,Arroyo,60+,Other,West,200k+,Retail Banking
+10619,Rachel,Roberts,36-45,Female,East,50-100k,Retail Banking
+10620,Tonya,Jones,46-60,Male,North,<50k,Priority
+10621,Curtis,Harrison,18-25,Male,North,100-200k,Priority
+10622,Douglas,Rodriguez,46-60,Female,North,<50k,Corporate
+10623,Mary,Howell,18-25,Other,North,100-200k,Priority
+10624,Lisa,Barnes,36-45,Female,East,50-100k,Retail Banking
+10625,Stephanie,Wilson,26-35,Female,North,200k+,Corporate
+10626,Lauren,Baker,26-35,Other,West,200k+,Retail Banking
+10627,Shannon,Price,46-60,Male,West,<50k,Priority
+10628,Brittney,Bird,36-45,Male,North,200k+,Retail Banking
+10629,Donna,Rivas,60+,Female,West,50-100k,Retail Banking
+10630,Kristin,Randall,26-35,Female,North,100-200k,Corporate
+10631,Luis,Ross,46-60,Other,East,100-200k,Retail Banking
+10632,Allison,Benson,46-60,Male,West,200k+,Corporate
+10633,Kathleen,Avila,46-60,Female,West,100-200k,Retail Banking
+10634,Kara,Martin,60+,Male,South,<50k,Corporate
+10635,Yvonne,Campbell,36-45,Female,West,100-200k,Retail Banking
+10636,Sandra,Johnson,36-45,Other,South,200k+,Corporate
+10637,Sandra,Cunningham,36-45,Male,West,50-100k,Retail Banking
+10638,Debra,Klein,46-60,Male,East,50-100k,Priority
+10639,Kara,Newman,46-60,Male,South,100-200k,Corporate
+10640,Curtis,Booker,18-25,Male,North,200k+,Retail Banking
+10641,Joseph,Davis,36-45,Male,North,200k+,Priority
+10642,Thomas,Wood,36-45,Other,West,200k+,Retail Banking
+10643,Amanda,Phillips,36-45,Other,East,100-200k,Corporate
+10644,Jack,Simon,18-25,Female,West,<50k,Corporate
+10645,Mark,Anderson,60+,Male,East,200k+,Corporate
+10646,Jesse,Garcia,36-45,Female,North,50-100k,Retail Banking
+10647,Kelly,Hernandez,46-60,Other,South,100-200k,Corporate
+10648,Deborah,Morton,36-45,Male,North,100-200k,Retail Banking
+10649,Lisa,Wood,60+,Male,North,200k+,Retail Banking
+10650,Rebecca,Cole,36-45,Other,North,200k+,Priority
+10651,Lauren,Conway,46-60,Female,East,50-100k,Corporate
+10652,Nathaniel,Colon,60+,Male,West,<50k,Priority
+10653,Stephen,Wright,18-25,Female,South,100-200k,Priority
+10654,Aaron,Nguyen,46-60,Female,West,<50k,Corporate
+10655,Roger,Jenkins,60+,Male,East,200k+,Retail Banking
+10656,Rachel,Richards,26-35,Other,East,100-200k,Priority
+10657,Hannah,Harris,36-45,Male,West,200k+,Corporate
+10658,Jessica,Patel,36-45,Male,North,100-200k,Retail Banking
+10659,Mackenzie,Schmitt,26-35,Male,North,<50k,Priority
+10660,George,Salinas,18-25,Other,North,200k+,Retail Banking
+10661,Jessica,Rios,18-25,Other,West,<50k,Corporate
+10662,Shelley,Cox,46-60,Female,West,<50k,Corporate
+10663,Brandon,Jacobs,60+,Male,West,100-200k,Corporate
+10664,Laura,Patterson,60+,Female,West,200k+,Priority
+10665,Ronald,Barnes,46-60,Female,South,100-200k,Priority
+10666,David,Bryant,18-25,Female,West,200k+,Priority
+10667,Robert,Owens,46-60,Other,East,100-200k,Retail Banking
+10668,Adam,Hughes,46-60,Male,North,<50k,Corporate
+10669,Jean,Wood,36-45,Other,West,200k+,Corporate
+10670,James,Wu,26-35,Male,North,200k+,Priority
+10671,Kyle,Carter,26-35,Male,North,100-200k,Corporate
+10672,Sean,Wilkins,26-35,Other,North,100-200k,Retail Banking
+10673,Angel,Hodges,18-25,Male,South,50-100k,Priority
+10674,Erica,Hill,18-25,Male,North,<50k,Priority
+10675,Kimberly,Johnson,60+,Female,South,200k+,Retail Banking
+10676,Laura,Richards,46-60,Female,East,<50k,Priority
+10677,Lindsey,Jenkins,18-25,Female,North,50-100k,Corporate
+10678,Amanda,Turner,26-35,Female,West,50-100k,Priority
+10679,Roger,Obrien,26-35,Male,South,100-200k,Corporate
+10680,James,Perez,46-60,Male,South,<50k,Corporate
+10681,Adam,Webster,36-45,Female,West,100-200k,Priority
+10682,Devin,Little,46-60,Female,West,100-200k,Priority
+10683,Lynn,Rowe,18-25,Female,North,<50k,Retail Banking
+10684,Larry,Williams,60+,Female,West,<50k,Corporate
+10685,Felicia,Willis,60+,Female,East,100-200k,Corporate
+10686,Whitney,Haley,46-60,Other,East,50-100k,Priority
+10687,Michael,Wu,18-25,Male,South,200k+,Retail Banking
+10688,Kimberly,Davis,60+,Female,East,50-100k,Corporate
+10689,Jose,Barker,18-25,Male,South,<50k,Retail Banking
+10690,Alexa,Edwards,36-45,Other,South,50-100k,Priority
+10691,Caitlin,Anderson,46-60,Other,West,200k+,Corporate
+10692,Pamela,Griffin,36-45,Other,South,<50k,Corporate
+10693,Kara,Bennett,26-35,Female,East,100-200k,Corporate
+10694,Brian,Green,60+,Other,North,50-100k,Corporate
+10695,Brian,Johnson,26-35,Female,North,50-100k,Retail Banking
+10696,Jay,Flores,18-25,Other,East,50-100k,Priority
+10697,Ricky,Caldwell,18-25,Male,North,50-100k,Priority
+10698,Jennifer,Kelly,46-60,Male,East,200k+,Retail Banking
+10699,Alan,Vargas,18-25,Other,East,100-200k,Corporate
+10700,Rebecca,Torres,26-35,Female,South,200k+,Priority
+10701,John,Stephens,36-45,Female,North,100-200k,Corporate
+10702,Kelly,Nicholson,60+,Female,North,50-100k,Priority
+10703,Victoria,Jones,26-35,Female,North,200k+,Corporate
+10704,Lauren,Brown,60+,Male,North,50-100k,Corporate
+10705,Richard,Gordon,18-25,Female,West,<50k,Retail Banking
+10706,Sarah,Patel,36-45,Other,West,100-200k,Corporate
+10707,Larry,Young,18-25,Other,East,<50k,Retail Banking
+10708,Dennis,Jimenez,26-35,Male,West,50-100k,Priority
+10709,Tiffany,Johnson,60+,Female,East,200k+,Priority
+10710,Michelle,Shaw,60+,Female,West,<50k,Retail Banking
+10711,Tracey,Campbell,60+,Male,South,100-200k,Corporate
+10712,Edward,Leon,46-60,Female,West,<50k,Retail Banking
+10713,Vincent,Grant,36-45,Male,North,100-200k,Priority
+10714,Cassandra,Young,36-45,Other,North,50-100k,Corporate
+10715,Nancy,Watson,60+,Other,South,100-200k,Retail Banking
+10716,Michael,Simmons,26-35,Other,North,50-100k,Priority
+10717,Cynthia,Elliott,46-60,Female,East,200k+,Priority
+10718,Jaime,Garcia,60+,Other,West,<50k,Retail Banking
+10719,David,Vasquez,60+,Other,East,50-100k,Retail Banking
+10720,Matthew,Huff,46-60,Male,South,<50k,Corporate
+10721,Angela,Williams,18-25,Male,South,50-100k,Retail Banking
+10722,Barbara,Wilson,26-35,Female,South,50-100k,Priority
+10723,Jessica,Matthews,18-25,Female,North,200k+,Corporate
+10724,Christina,Moore,26-35,Male,West,<50k,Corporate
+10725,Kiara,Garcia,46-60,Female,East,50-100k,Retail Banking
+10726,Emily,Williams,26-35,Female,East,50-100k,Retail Banking
+10727,Jason,Ward,36-45,Other,West,100-200k,Corporate
+10728,Dylan,Woods,36-45,Other,North,200k+,Priority
+10729,James,Arroyo,46-60,Female,East,200k+,Priority
+10730,Daniel,Anderson,46-60,Female,North,100-200k,Priority
+10731,Deborah,Anderson,18-25,Male,North,200k+,Priority
+10732,Lisa,Roy,60+,Other,South,<50k,Priority
+10733,Janet,Drake,46-60,Female,South,50-100k,Corporate
+10734,Cindy,Miles,60+,Female,North,<50k,Corporate
+10735,Jesse,Shaffer,46-60,Female,West,50-100k,Corporate
+10736,Nathaniel,Sanchez,36-45,Female,West,50-100k,Retail Banking
+10737,Patricia,Hancock,60+,Other,South,200k+,Retail Banking
+10738,Adam,Marks,60+,Female,North,50-100k,Retail Banking
+10739,Anna,Ortiz,60+,Female,West,50-100k,Retail Banking
+10740,Gregory,Bradley,18-25,Male,South,100-200k,Corporate
+10741,Scott,Bradley,46-60,Female,East,<50k,Retail Banking
+10742,Jeremy,Chapman,36-45,Female,West,50-100k,Retail Banking
+10743,Patricia,Copeland,46-60,Other,North,200k+,Retail Banking
+10744,Matthew,Campbell,60+,Other,West,100-200k,Priority
+10745,Michael,Joyce,18-25,Female,South,100-200k,Retail Banking
+10746,Edward,Mitchell,60+,Other,South,50-100k,Corporate
+10747,Peter,Fischer,60+,Male,South,200k+,Priority
+10748,Anne,Black,36-45,Other,West,200k+,Corporate
+10749,Debra,King,18-25,Female,North,50-100k,Retail Banking
+10750,David,Garcia,18-25,Female,East,200k+,Retail Banking
+10751,Stacie,Navarro,26-35,Other,West,200k+,Priority
+10752,Brian,Howard,60+,Male,North,<50k,Retail Banking
+10753,Lee,Brown,46-60,Male,West,<50k,Retail Banking
+10754,Eric,Chang,18-25,Other,East,100-200k,Retail Banking
+10755,Jacqueline,Williams,26-35,Female,West,50-100k,Priority
+10756,Allison,Cooper,18-25,Other,North,<50k,Corporate
+10757,Justin,Montoya,46-60,Other,North,50-100k,Retail Banking
+10758,Ricky,Dillon,26-35,Male,North,100-200k,Corporate
+10759,Erica,Payne,18-25,Other,East,200k+,Retail Banking
+10760,Elizabeth,Acosta,26-35,Male,North,<50k,Priority
+10761,Katelyn,Parsons,36-45,Other,South,<50k,Corporate
+10762,Holly,Parrish,60+,Male,South,200k+,Retail Banking
+10763,Daniel,Johnson,26-35,Other,East,<50k,Corporate
+10764,Ricky,Terry,46-60,Other,East,50-100k,Corporate
+10765,Rick,Webster,18-25,Male,North,50-100k,Priority
+10766,Leslie,Vaughn,36-45,Male,West,<50k,Corporate
+10767,James,Fitzpatrick,46-60,Other,West,<50k,Retail Banking
+10768,Ronnie,Chambers,26-35,Other,West,200k+,Priority
+10769,Wendy,Atkins,26-35,Male,South,50-100k,Retail Banking
+10770,Matthew,Jimenez,18-25,Other,North,50-100k,Corporate
+10771,Laura,Henry,46-60,Female,East,200k+,Corporate
+10772,Jesse,Hancock,26-35,Female,West,<50k,Priority
+10773,Nicole,Zimmerman,36-45,Male,North,<50k,Corporate
+10774,Emily,Armstrong,26-35,Male,North,100-200k,Priority
+10775,Madison,Kane,18-25,Male,North,200k+,Priority
+10776,Derrick,Gardner,60+,Male,North,50-100k,Retail Banking
+10777,John,Palmer,26-35,Other,North,<50k,Corporate
+10778,Craig,Gomez,18-25,Male,East,100-200k,Priority
+10779,Benjamin,Schroeder,46-60,Male,South,100-200k,Priority
+10780,Justin,Norman,60+,Other,South,100-200k,Retail Banking
+10781,Richard,Williams,46-60,Male,West,<50k,Corporate
+10782,Juan,Durham,26-35,Female,North,<50k,Corporate
+10783,Maria,Harris,18-25,Male,West,100-200k,Corporate
+10784,Christopher,Reyes,18-25,Other,North,100-200k,Priority
+10785,James,Rhodes,36-45,Female,North,<50k,Priority
+10786,Christopher,Pacheco,18-25,Female,East,200k+,Priority
+10787,Laura,Villanueva,60+,Male,South,<50k,Priority
+10788,Kevin,Zamora,60+,Male,South,200k+,Priority
+10789,Luis,Morse,26-35,Female,North,50-100k,Priority
+10790,Cindy,Villegas,26-35,Male,East,200k+,Priority
+10791,Teresa,Molina,26-35,Female,West,200k+,Retail Banking
+10792,Mario,Phillips,18-25,Other,West,100-200k,Corporate
+10793,Aaron,Clark,26-35,Male,North,<50k,Priority
+10794,Andrea,Harrison,36-45,Female,East,<50k,Corporate
+10795,Kristen,Larson,26-35,Female,North,<50k,Priority
+10796,David,Flores,36-45,Other,West,<50k,Retail Banking
+10797,Michelle,Berry,46-60,Female,West,<50k,Corporate
+10798,Kayla,Morgan,36-45,Male,South,<50k,Retail Banking
+10799,Annette,Moore,60+,Other,West,100-200k,Retail Banking
+10800,Brandon,Oliver,60+,Female,East,100-200k,Retail Banking
+10801,John,Stevens,60+,Other,East,50-100k,Corporate
+10802,Gabriel,Pitts,36-45,Other,East,200k+,Corporate
+10803,David,Cruz,18-25,Female,East,<50k,Corporate
+10804,Rachel,King,46-60,Female,North,50-100k,Retail Banking
+10805,Mary,Coleman,36-45,Male,West,50-100k,Priority
+10806,Scott,Knox,60+,Female,South,<50k,Priority
+10807,Jessica,Alvarado,60+,Other,North,100-200k,Corporate
+10808,Jennifer,Dixon,60+,Female,West,<50k,Retail Banking
+10809,Edward,Caldwell,36-45,Male,South,200k+,Retail Banking
+10810,Thomas,Ellison,46-60,Other,West,50-100k,Corporate
+10811,Erica,Diaz,26-35,Other,West,<50k,Priority
+10812,Cathy,Mills,26-35,Female,West,200k+,Corporate
+10813,Janet,Thornton,26-35,Other,East,<50k,Priority
+10814,Cody,Kelly,60+,Female,West,100-200k,Priority
+10815,Lisa,Paul,46-60,Female,North,50-100k,Priority
+10816,Ian,Johnson,60+,Other,East,50-100k,Retail Banking
+10817,Savannah,Walker,18-25,Female,West,50-100k,Priority
+10818,Sandra,Williams,60+,Other,South,<50k,Priority
+10819,Yesenia,Johnson,36-45,Other,West,50-100k,Retail Banking
+10820,Leslie,Cook,46-60,Male,West,50-100k,Retail Banking
+10821,Denise,Skinner,46-60,Male,West,50-100k,Priority
+10822,Ashley,Blackwell,46-60,Male,West,50-100k,Corporate
+10823,Carlos,Williams,60+,Other,West,<50k,Retail Banking
+10824,Darlene,Young,36-45,Male,South,100-200k,Retail Banking
+10825,Alex,Carpenter,60+,Other,East,<50k,Priority
+10826,Jonathan,Walton,18-25,Female,East,200k+,Retail Banking
+10827,Brendan,Paul,18-25,Male,West,100-200k,Corporate
+10828,Timothy,Glover,26-35,Male,North,50-100k,Corporate
+10829,Karen,Edwards,26-35,Female,West,<50k,Retail Banking
+10830,Michael,Fitzgerald,26-35,Female,West,50-100k,Retail Banking
+10831,Roy,Forbes,36-45,Male,South,<50k,Corporate
+10832,Joy,Barker,18-25,Male,West,100-200k,Corporate
+10833,Jessica,Franklin,60+,Male,North,50-100k,Corporate
+10834,Randy,Reese,18-25,Male,East,200k+,Priority
+10835,Robert,Logan,26-35,Female,North,100-200k,Priority
+10836,Megan,Kennedy,36-45,Male,South,50-100k,Retail Banking
+10837,David,Collins,26-35,Male,North,100-200k,Corporate
+10838,Katherine,King,26-35,Other,East,50-100k,Priority
+10839,Amy,Cross,26-35,Male,West,50-100k,Corporate
+10840,Tiffany,Thomas,36-45,Male,East,200k+,Corporate
+10841,Brian,Cole,26-35,Other,North,50-100k,Priority
+10842,John,White,18-25,Other,South,200k+,Priority
+10843,Teresa,Morrow,36-45,Male,South,50-100k,Priority
+10844,Daniel,Ingram,46-60,Male,West,100-200k,Retail Banking
+10845,Christopher,Perez,26-35,Other,East,50-100k,Corporate
+10846,Jenny,Roberts,26-35,Female,West,200k+,Priority
+10847,Donald,Johnson,26-35,Other,West,50-100k,Retail Banking
+10848,Michael,Kim,60+,Female,West,100-200k,Retail Banking
+10849,Samuel,Taylor,26-35,Male,West,200k+,Retail Banking
+10850,Jesus,Boyd,26-35,Male,South,100-200k,Priority
+10851,David,Gibson,46-60,Female,East,200k+,Priority
+10852,Shane,Hamilton,46-60,Other,South,100-200k,Corporate
+10853,Barbara,Gonzalez,18-25,Other,North,<50k,Corporate
+10854,Alexander,Smith,60+,Other,South,200k+,Corporate
+10855,Michelle,Price,60+,Female,North,<50k,Retail Banking
+10856,Robin,Taylor,36-45,Male,East,50-100k,Priority
+10857,Alan,Willis,18-25,Other,East,<50k,Corporate
+10858,Jennifer,Jones,26-35,Male,West,<50k,Corporate
+10859,Alexandria,Hanson,36-45,Male,West,50-100k,Corporate
+10860,Susan,Bryant,18-25,Female,East,100-200k,Retail Banking
+10861,Annette,Wright,18-25,Other,North,50-100k,Retail Banking
+10862,Jeremy,Barker,60+,Male,North,100-200k,Priority
+10863,James,Barr,60+,Female,North,50-100k,Corporate
+10864,Jacob,James,46-60,Female,South,200k+,Retail Banking
+10865,Wesley,Payne,36-45,Female,East,200k+,Corporate
+10866,Carlos,Bennett,36-45,Female,East,100-200k,Corporate
+10867,Jodi,Franco,36-45,Other,West,100-200k,Corporate
+10868,Elizabeth,Berger,60+,Other,West,200k+,Retail Banking
+10869,Amanda,Le,36-45,Other,East,200k+,Corporate
+10870,Tyler,Pratt,60+,Other,South,50-100k,Priority
+10871,Charles,Owens,36-45,Other,South,100-200k,Corporate
+10872,Jimmy,Collins,60+,Male,South,200k+,Priority
+10873,Christopher,Smith,18-25,Male,West,200k+,Corporate
+10874,Justin,Ray,18-25,Female,North,100-200k,Corporate
+10875,Angela,Jones,36-45,Other,South,200k+,Priority
+10876,Kimberly,Roberts,60+,Female,West,<50k,Retail Banking
+10877,Patricia,Davis,26-35,Female,East,200k+,Corporate
+10878,Cody,Maxwell,60+,Other,South,100-200k,Corporate
+10879,April,Hartman,36-45,Other,East,<50k,Retail Banking
+10880,Ronald,Brown,18-25,Female,East,<50k,Priority
+10881,Carolyn,Peck,26-35,Other,South,100-200k,Priority
+10882,Pamela,Mills,18-25,Other,East,50-100k,Corporate
+10883,Ryan,Williams,46-60,Male,North,50-100k,Retail Banking
+10884,Michael,Jackson,36-45,Male,South,100-200k,Retail Banking
+10885,Megan,Weaver,36-45,Female,North,50-100k,Priority
+10886,Stephanie,Banks,18-25,Male,West,200k+,Retail Banking
+10887,Scott,Arellano,18-25,Other,South,<50k,Corporate
+10888,Michael,Fuentes,60+,Male,South,50-100k,Priority
+10889,Darren,Banks,26-35,Other,North,100-200k,Corporate
+10890,Ronald,Washington,36-45,Other,North,100-200k,Retail Banking
+10891,Michelle,Johnson,36-45,Other,East,100-200k,Corporate
+10892,Rebecca,Keith,36-45,Female,East,200k+,Priority
+10893,Kimberly,Gonzalez,26-35,Male,South,200k+,Priority
+10894,Robert,Walker,46-60,Female,East,100-200k,Corporate
+10895,Deborah,Snyder,26-35,Other,North,200k+,Priority
+10896,Michael,Lopez,46-60,Female,North,100-200k,Retail Banking
+10897,Felicia,Davis,36-45,Other,South,200k+,Priority
+10898,Jessica,Robinson,46-60,Other,North,50-100k,Retail Banking
+10899,Sarah,Wiggins,26-35,Other,South,<50k,Retail Banking
+10900,Ashley,Nolan,60+,Male,North,<50k,Priority
+10901,Haley,Foster,36-45,Male,South,<50k,Corporate
+10902,Jennifer,Mcgee,26-35,Other,South,<50k,Priority
+10903,April,Clark,46-60,Female,North,200k+,Priority
+10904,Richard,Fields,60+,Female,North,100-200k,Priority
+10905,Aaron,Ochoa,60+,Female,West,<50k,Priority
+10906,Michelle,Kane,36-45,Other,West,<50k,Retail Banking
+10907,Jessica,Pitts,18-25,Other,West,50-100k,Priority
+10908,Erik,Gray,60+,Other,West,100-200k,Retail Banking
+10909,Brian,Lane,60+,Female,West,100-200k,Retail Banking
+10910,Jo,Rodriguez,26-35,Female,East,50-100k,Corporate
+10911,Todd,Fisher,36-45,Female,North,<50k,Retail Banking
+10912,Teresa,Ramsey,46-60,Other,South,<50k,Retail Banking
+10913,Jeremy,Johnson,36-45,Female,East,<50k,Retail Banking
+10914,Kimberly,Perez,36-45,Female,North,<50k,Priority
+10915,Kelly,Hunter,26-35,Male,North,100-200k,Priority
+10916,Crystal,Johnson,60+,Female,West,100-200k,Retail Banking
+10917,Steven,Wright,36-45,Other,West,<50k,Corporate
+10918,Samantha,Dunn,18-25,Male,South,<50k,Priority
+10919,Rodney,Turner,36-45,Other,North,100-200k,Corporate
+10920,Anita,Parker,46-60,Male,North,50-100k,Corporate
+10921,Jerry,Smith,60+,Female,South,200k+,Retail Banking
+10922,Kelly,Campbell,26-35,Female,North,50-100k,Retail Banking
+10923,Sean,Brown,18-25,Female,North,200k+,Corporate
+10924,Marc,Smith,36-45,Female,South,100-200k,Retail Banking
+10925,Michael,Newton,26-35,Other,North,<50k,Corporate
+10926,Courtney,Johnson,36-45,Other,East,50-100k,Priority
+10927,Cory,Shannon,26-35,Male,East,100-200k,Retail Banking
+10928,Michelle,Garcia,46-60,Female,East,100-200k,Retail Banking
+10929,Krista,Silva,36-45,Other,East,200k+,Priority
+10930,Guy,Reese,46-60,Female,South,50-100k,Retail Banking
+10931,Catherine,Nguyen,18-25,Male,North,200k+,Priority
+10932,Erika,Weiss,36-45,Other,East,100-200k,Priority
+10933,Anna,Edwards,46-60,Male,East,200k+,Retail Banking
+10934,Amanda,Powell,60+,Male,North,<50k,Corporate
+10935,Julia,Clark,26-35,Other,East,100-200k,Corporate
+10936,William,Smith,26-35,Male,West,<50k,Corporate
+10937,George,Mcclure,26-35,Female,West,100-200k,Priority
+10938,Sean,Johns,60+,Male,South,200k+,Priority
+10939,Ryan,Bowman,46-60,Other,South,50-100k,Retail Banking
+10940,Andre,Hensley,26-35,Male,East,50-100k,Corporate
+10941,Jessica,Perkins,18-25,Male,East,200k+,Corporate
+10942,Matthew,Hawkins,46-60,Female,East,<50k,Corporate
+10943,Philip,Sanchez,46-60,Female,North,100-200k,Priority
+10944,Scott,Watson,18-25,Other,North,200k+,Corporate
+10945,David,Cooper,36-45,Female,North,200k+,Corporate
+10946,Geoffrey,Hill,60+,Male,North,100-200k,Retail Banking
+10947,Michelle,Morris,46-60,Female,South,<50k,Corporate
+10948,Jonathan,Marks,60+,Other,South,200k+,Corporate
+10949,Renee,Mills,46-60,Female,South,50-100k,Priority
+10950,Billy,Johnson,46-60,Other,East,200k+,Retail Banking
+10951,Daniel,Thompson,60+,Male,West,<50k,Retail Banking
+10952,Kimberly,Deleon,26-35,Female,West,50-100k,Priority
+10953,Dana,Bray,36-45,Other,West,200k+,Retail Banking
+10954,Haley,Franco,60+,Female,North,200k+,Priority
+10955,Patrick,Kennedy,46-60,Other,North,<50k,Corporate
+10956,Suzanne,Rosales,46-60,Female,West,100-200k,Corporate
+10957,Alexandra,Moore,60+,Female,South,50-100k,Priority
+10958,Rita,Howard,26-35,Female,West,100-200k,Corporate
+10959,Curtis,Mcgee,18-25,Other,East,100-200k,Priority
+10960,Denise,Johnson,60+,Female,South,200k+,Corporate
+10961,Caroline,Peters,26-35,Female,South,200k+,Corporate
+10962,John,Ramirez,60+,Male,West,100-200k,Priority
+10963,Calvin,Klein,26-35,Other,West,50-100k,Retail Banking
+10964,Ann,Clark,36-45,Male,North,200k+,Retail Banking
+10965,Laura,Kelly,18-25,Female,East,50-100k,Corporate
+10966,Ryan,Smith,36-45,Other,South,<50k,Priority
+10967,Kim,Phillips,26-35,Female,East,200k+,Retail Banking
+10968,Robert,Banks,26-35,Male,North,200k+,Priority
+10969,Doris,Reynolds,18-25,Other,West,50-100k,Corporate
+10970,Kenneth,Scott,46-60,Male,North,50-100k,Retail Banking
+10971,Justin,Rodriguez,60+,Other,West,100-200k,Priority
+10972,Jasmine,Bartlett,18-25,Other,West,50-100k,Retail Banking
+10973,Laura,Hill,18-25,Female,South,50-100k,Retail Banking
+10974,Karen,Oconnor,26-35,Female,West,200k+,Priority
+10975,Renee,Johnson,18-25,Other,South,100-200k,Corporate
+10976,Maria,Maynard,18-25,Female,South,<50k,Corporate
+10977,Kyle,Carpenter,36-45,Male,East,<50k,Retail Banking
+10978,Patrick,Taylor,60+,Other,South,50-100k,Retail Banking
+10979,Timothy,Young,18-25,Other,South,50-100k,Priority
+10980,Emma,Robles,46-60,Female,North,100-200k,Corporate
+10981,Richard,Hill,46-60,Other,South,100-200k,Retail Banking
+10982,Todd,Johnson,60+,Other,South,100-200k,Priority
+10983,Victoria,Diaz,60+,Male,North,<50k,Retail Banking
+10984,Mary,Cross,18-25,Female,East,<50k,Priority
+10985,Betty,Peterson,60+,Female,East,100-200k,Priority
+10986,Brent,Bond,60+,Female,West,50-100k,Retail Banking
+10987,Patrick,White,36-45,Male,West,<50k,Retail Banking
+10988,Courtney,Mays,26-35,Other,West,<50k,Priority
+10989,Robert,Mullen,26-35,Other,South,200k+,Priority
+10990,Robert,Humphrey,36-45,Other,West,200k+,Corporate
+10991,Sergio,Obrien,46-60,Other,North,50-100k,Corporate
+10992,Erin,Juarez,60+,Female,West,<50k,Priority
+10993,Sarah,Bradshaw,46-60,Male,East,100-200k,Corporate
+10994,Tyler,Byrd,36-45,Male,North,200k+,Retail Banking
+10995,David,Smith,18-25,Female,South,200k+,Priority
+10996,Wendy,Burnett,46-60,Female,South,50-100k,Priority
+10997,Jessica,Lopez,46-60,Other,North,<50k,Retail Banking
+10998,William,Pittman,18-25,Male,East,<50k,Retail Banking
+10999,William,Kramer,18-25,Other,West,<50k,Retail Banking
+11000,Allison,Valencia,26-35,Female,South,200k+,Corporate
+11001,Jacqueline,Thompson,26-35,Other,South,100-200k,Corporate
+11002,Anne,Anderson,36-45,Other,South,50-100k,Retail Banking
+11003,Cody,Reyes,60+,Other,East,100-200k,Retail Banking
+11004,Clarence,Jones,18-25,Male,East,200k+,Corporate
+11005,Mary,Zavala,26-35,Male,West,<50k,Retail Banking
+11006,Tonya,Bates,26-35,Other,North,200k+,Priority
+11007,Elizabeth,Scott,46-60,Female,West,200k+,Priority
+11008,Alison,Sims,26-35,Male,North,100-200k,Priority
+11009,Ryan,Martinez,36-45,Female,North,200k+,Retail Banking
+11010,Scott,Osborn,46-60,Male,West,200k+,Corporate
+11011,Kelsey,Mcconnell,36-45,Female,West,<50k,Retail Banking
+11012,Dana,Wright,36-45,Female,West,100-200k,Corporate
+11013,James,Phillips,36-45,Male,West,200k+,Priority
+11014,Kimberly,Simmons,26-35,Male,East,200k+,Corporate
+11015,Rhonda,Kramer,18-25,Female,West,200k+,Retail Banking
+11016,Jeffrey,Strong,36-45,Other,West,100-200k,Retail Banking
+11017,David,Compton,26-35,Male,South,100-200k,Retail Banking
+11018,Megan,Duke,60+,Female,South,200k+,Retail Banking
+11019,Eric,Bentley,60+,Other,East,100-200k,Retail Banking
+11020,Suzanne,Collins,46-60,Female,East,50-100k,Retail Banking
+11021,Frederick,Rodriguez,36-45,Male,North,50-100k,Retail Banking
+11022,Maria,Meyer,60+,Male,West,200k+,Corporate
+11023,Michael,Griffin,46-60,Other,North,50-100k,Retail Banking
+11024,Robert,Wilson,46-60,Other,North,50-100k,Corporate
+11025,Brittany,Martinez,18-25,Other,West,<50k,Retail Banking
+11026,John,Roberts,18-25,Other,West,50-100k,Priority
+11027,Marie,Miller,26-35,Other,South,<50k,Corporate
+11028,Nicole,Hobbs,18-25,Female,North,<50k,Corporate
+11029,Daniel,Cantu,36-45,Male,South,<50k,Corporate
+11030,Marcus,Ramos,60+,Other,West,200k+,Retail Banking
+11031,Jeffrey,Perkins,60+,Other,North,100-200k,Corporate
+11032,Jennifer,Stewart,60+,Female,South,200k+,Priority
+11033,Roger,Ray,26-35,Male,East,200k+,Corporate
+11034,Rachel,Rivera,60+,Other,North,200k+,Corporate
+11035,Amanda,Ramos,18-25,Female,East,100-200k,Retail Banking
+11036,Ashley,Roberts,36-45,Male,East,<50k,Retail Banking
+11037,William,Gallagher,26-35,Female,South,<50k,Retail Banking
+11038,Maria,White,46-60,Male,South,<50k,Corporate
+11039,Jason,Brown,60+,Female,West,100-200k,Priority
+11040,Shannon,Green,46-60,Male,South,200k+,Corporate
+11041,Clifford,Smith,26-35,Male,North,200k+,Corporate
+11042,Christian,Robertson,36-45,Male,East,<50k,Corporate
+11043,Ashley,King,60+,Male,East,200k+,Priority
+11044,Joan,Robinson,26-35,Female,South,<50k,Corporate
+11045,Charles,Moore,36-45,Other,North,50-100k,Corporate
+11046,Alexandra,Hughes,26-35,Other,East,50-100k,Retail Banking
+11047,Jason,Roberts,46-60,Other,North,100-200k,Corporate
+11048,Kathleen,Dixon,60+,Male,East,100-200k,Priority
+11049,William,Leonard,18-25,Other,North,100-200k,Priority
+11050,Nicole,Brown,18-25,Other,West,<50k,Corporate
+11051,Jessica,Johnson,36-45,Other,West,50-100k,Retail Banking
+11052,Vanessa,Hamilton,36-45,Other,East,50-100k,Priority
+11053,Eric,Kim,36-45,Male,North,<50k,Corporate
+11054,Chad,Mendez,36-45,Male,North,50-100k,Corporate
+11055,Jennifer,Ramirez,60+,Male,West,50-100k,Corporate
+11056,Joel,Hurley,26-35,Female,South,200k+,Corporate
+11057,Richard,Cook,46-60,Male,West,100-200k,Retail Banking
+11058,David,Anderson,36-45,Other,South,50-100k,Priority
+11059,Kathy,Fischer,18-25,Other,West,50-100k,Corporate
+11060,Joan,Smith,18-25,Other,West,100-200k,Retail Banking
+11061,Sherri,Mccall,18-25,Female,North,100-200k,Retail Banking
+11062,Geoffrey,Riley,60+,Other,South,50-100k,Corporate
+11063,Austin,Carpenter,18-25,Male,North,50-100k,Priority
+11064,Andrew,Garcia,36-45,Female,North,50-100k,Retail Banking
+11065,Aaron,Garrison,60+,Female,South,200k+,Retail Banking
+11066,Annette,Reed,26-35,Male,North,50-100k,Priority
+11067,Brian,Roach,46-60,Female,South,<50k,Retail Banking
+11068,Mary,Moore,60+,Male,West,<50k,Priority
+11069,Amanda,Allen,36-45,Male,South,50-100k,Corporate
+11070,Melissa,Duarte,46-60,Female,East,50-100k,Corporate
+11071,Paul,Gardner,60+,Male,South,<50k,Priority
+11072,Cory,Weiss,60+,Other,North,200k+,Corporate
+11073,Samantha,Powell,46-60,Male,West,50-100k,Priority
+11074,Brooke,Robertson,60+,Other,West,200k+,Retail Banking
+11075,Derek,Ponce,36-45,Female,East,50-100k,Priority
+11076,Barbara,Gross,46-60,Other,North,200k+,Corporate
+11077,Steven,Gibson,26-35,Female,West,50-100k,Retail Banking
+11078,Amy,Bryant,46-60,Female,North,200k+,Retail Banking
+11079,Lauren,Prince,60+,Male,East,<50k,Retail Banking
+11080,Brittany,Wood,18-25,Other,North,<50k,Corporate
+11081,Peter,Taylor,18-25,Male,South,100-200k,Priority
+11082,Tiffany,Valdez,60+,Other,South,<50k,Priority
+11083,Christina,Ramos,60+,Other,East,200k+,Retail Banking
+11084,Roger,Wilkerson,18-25,Other,North,<50k,Corporate
+11085,Elizabeth,Guzman,18-25,Female,West,50-100k,Retail Banking
+11086,Gary,Blankenship,26-35,Male,North,<50k,Retail Banking
+11087,Jeff,Martinez,26-35,Female,North,50-100k,Corporate
+11088,Jennifer,Morrison,60+,Female,West,50-100k,Corporate
+11089,Jesse,Davis,18-25,Female,South,100-200k,Corporate
+11090,Frank,Rivera,26-35,Female,South,200k+,Retail Banking
+11091,Jeff,Sanchez,26-35,Male,West,200k+,Priority
+11092,Kristin,Gardner,46-60,Male,North,<50k,Retail Banking
+11093,Crystal,Gilbert,60+,Other,North,<50k,Corporate
+11094,Anthony,Mcdowell,18-25,Male,North,50-100k,Priority
+11095,Craig,Finley,18-25,Male,West,200k+,Retail Banking
+11096,Rachel,Delgado,18-25,Female,South,200k+,Retail Banking
+11097,Denise,Hines,18-25,Other,North,<50k,Priority
+11098,Jerry,Khan,36-45,Male,South,<50k,Corporate
+11099,John,Thompson,26-35,Male,South,50-100k,Corporate
+11100,Michelle,Perez,46-60,Male,East,100-200k,Corporate
+11101,Brendan,Brown,46-60,Male,East,200k+,Priority
+11102,Patrick,Montes,36-45,Female,East,200k+,Priority
+11103,Jeffrey,Dunn,18-25,Female,South,200k+,Priority
+11104,Andrew,Berg,18-25,Female,South,200k+,Priority
+11105,Mitchell,Reynolds,46-60,Female,West,50-100k,Priority
+11106,James,Johnston,46-60,Male,North,50-100k,Priority
+11107,Amanda,Anderson,26-35,Other,South,100-200k,Retail Banking
+11108,Isabel,Kelly,36-45,Other,South,100-200k,Priority
+11109,Brenda,Crawford,18-25,Female,West,50-100k,Priority
+11110,Traci,Gomez,26-35,Male,East,100-200k,Retail Banking
+11111,Wayne,Hanson,60+,Male,North,100-200k,Retail Banking
+11112,Daniel,Jacobs,60+,Other,East,100-200k,Corporate
+11113,John,Glover,36-45,Other,West,100-200k,Corporate
+11114,April,Roberts,26-35,Other,West,<50k,Corporate
+11115,Cheryl,Harvey,18-25,Other,South,200k+,Priority
+11116,Kristin,Wilson,36-45,Male,East,200k+,Corporate
+11117,Scott,Tran,36-45,Female,North,200k+,Corporate
+11118,Charles,Perez,60+,Female,North,<50k,Corporate
+11119,Sean,Nelson,46-60,Female,West,<50k,Corporate
+11120,Sarah,Sherman,60+,Male,South,200k+,Retail Banking
+11121,Hannah,Adams,60+,Other,South,100-200k,Retail Banking
+11122,Melissa,Hayden,36-45,Other,South,<50k,Corporate
+11123,Candice,Moore,18-25,Other,North,<50k,Corporate
+11124,Kelsey,Sanders,26-35,Other,West,<50k,Retail Banking
+11125,Stacy,Johnson,18-25,Male,North,200k+,Corporate
+11126,Alan,Ball,26-35,Female,East,100-200k,Priority
+11127,Megan,Johnson,36-45,Female,North,<50k,Priority
+11128,Jeanette,Phillips,60+,Female,South,50-100k,Retail Banking
+11129,Nicholas,Mullins,46-60,Male,South,200k+,Retail Banking
+11130,Paul,Duncan,46-60,Female,North,<50k,Priority
+11131,Ronald,Obrien,46-60,Female,West,50-100k,Priority
+11132,Jessica,Taylor,36-45,Male,West,50-100k,Priority
+11133,Theresa,Stanley,60+,Other,West,100-200k,Retail Banking
+11134,Krystal,Reyes,60+,Other,West,<50k,Priority
+11135,Steven,Stark,46-60,Other,East,50-100k,Priority
+11136,Brian,Neal,26-35,Female,West,<50k,Priority
+11137,Samuel,Rivera,36-45,Male,East,50-100k,Corporate
+11138,Joshua,Obrien,60+,Other,West,200k+,Corporate
+11139,Monique,Tran,60+,Male,South,200k+,Priority
+11140,Susan,Hayes,60+,Female,South,100-200k,Priority
+11141,Nicole,Grimes,36-45,Female,East,100-200k,Corporate
+11142,David,Summers,18-25,Male,North,100-200k,Priority
+11143,Wayne,Smith,18-25,Male,South,200k+,Priority
+11144,Judith,Wallace,18-25,Male,East,50-100k,Corporate
+11145,Cory,Knight,26-35,Female,South,50-100k,Corporate
+11146,Lauren,Banks,18-25,Female,South,<50k,Corporate
+11147,Ashley,Brock,60+,Female,West,200k+,Retail Banking
+11148,Joshua,Moss,26-35,Male,East,<50k,Retail Banking
+11149,Shawn,Walker,46-60,Male,West,200k+,Corporate
+11150,Heather,Francis,36-45,Male,East,50-100k,Retail Banking
+11151,Jason,King,36-45,Female,West,100-200k,Retail Banking
+11152,Brian,Graham,46-60,Other,South,50-100k,Corporate
+11153,Seth,Harper,18-25,Other,North,100-200k,Corporate
+11154,Daniel,Greer,36-45,Male,North,200k+,Retail Banking
+11155,Sherry,Lee,36-45,Other,South,200k+,Priority
+11156,Laura,Garza,18-25,Female,East,<50k,Corporate
+11157,William,Scott,18-25,Other,West,<50k,Priority
+11158,Joseph,Proctor,46-60,Other,South,100-200k,Corporate
+11159,Michael,Franklin,60+,Female,North,<50k,Priority
+11160,Theresa,Marquez,18-25,Male,West,<50k,Priority
+11161,Mary,Hill,60+,Female,West,200k+,Priority
+11162,James,Vang,46-60,Other,South,100-200k,Priority
+11163,Joshua,Mays,46-60,Female,West,100-200k,Corporate
+11164,Cameron,Torres,36-45,Other,North,100-200k,Retail Banking
+11165,Brian,Mccullough,46-60,Female,South,50-100k,Priority
+11166,William,Dominguez,46-60,Other,East,<50k,Priority
+11167,Keith,Dudley,46-60,Female,West,200k+,Retail Banking
+11168,Dakota,Hess,26-35,Female,East,100-200k,Priority
+11169,Summer,Mckee,26-35,Other,East,<50k,Retail Banking
+11170,Thomas,Ayala,60+,Male,West,100-200k,Corporate
+11171,Glenn,Norman,60+,Female,East,100-200k,Retail Banking
+11172,Brittany,Williams,46-60,Male,North,<50k,Priority
+11173,Tricia,Mccoy,26-35,Female,North,<50k,Corporate
+11174,Elizabeth,Anderson,46-60,Male,East,200k+,Corporate
+11175,Martin,Lopez,46-60,Female,South,<50k,Corporate
+11176,Austin,Houston,46-60,Other,East,200k+,Retail Banking
+11177,Jon,Rogers,26-35,Female,South,50-100k,Corporate
+11178,William,Young,36-45,Other,North,100-200k,Corporate
+11179,Gary,Jones,60+,Male,South,50-100k,Retail Banking
+11180,Darren,Chandler,46-60,Male,West,50-100k,Priority
+11181,Andrea,Barr,18-25,Female,East,50-100k,Retail Banking
+11182,Warren,Johnson,36-45,Female,East,50-100k,Corporate
+11183,Amy,Burns,46-60,Other,South,100-200k,Corporate
+11184,Brenda,Bowen,60+,Male,West,200k+,Priority
+11185,Karen,Hall,18-25,Other,North,<50k,Retail Banking
+11186,Gina,Tucker,26-35,Female,North,50-100k,Priority
+11187,William,Phillips,26-35,Male,East,200k+,Corporate
+11188,Meghan,Rose,60+,Female,South,100-200k,Corporate
+11189,Joy,English,60+,Male,South,100-200k,Priority
+11190,Kimberly,Brennan,26-35,Other,South,50-100k,Priority
+11191,Kristi,Ford,46-60,Other,North,100-200k,Priority
+11192,Calvin,Moreno,26-35,Other,West,<50k,Retail Banking
+11193,Stephanie,Williams,46-60,Other,South,50-100k,Corporate
+11194,Brandon,Hunt,60+,Male,North,200k+,Priority
+11195,Samantha,Jones,18-25,Female,North,<50k,Corporate
+11196,Tony,Carr,18-25,Other,North,200k+,Corporate
+11197,Christopher,Davenport,46-60,Female,East,<50k,Priority
+11198,Tyrone,Gonzales,46-60,Other,West,100-200k,Priority
+11199,Alexander,Kennedy,26-35,Other,West,<50k,Retail Banking
+11200,Erika,Wilson,26-35,Other,South,200k+,Priority
+11201,Christopher,Johnson,26-35,Male,North,100-200k,Priority
+11202,Lauren,Martinez,36-45,Other,West,200k+,Priority
+11203,Melanie,Baird,46-60,Male,North,200k+,Retail Banking
+11204,Todd,Arnold,46-60,Other,North,100-200k,Retail Banking
+11205,Robert,Aguilar,36-45,Other,North,<50k,Retail Banking
+11206,Joseph,Turner,26-35,Other,South,50-100k,Priority
+11207,Laura,Walker,36-45,Other,North,100-200k,Priority
+11208,Scott,Alvarez,36-45,Other,North,200k+,Retail Banking
+11209,Amanda,Mccarthy,46-60,Other,West,<50k,Corporate
+11210,Adam,Spencer,36-45,Other,South,50-100k,Corporate
+11211,Ann,Porter,60+,Female,South,200k+,Corporate
+11212,Colin,Davis,26-35,Other,West,50-100k,Corporate
+11213,Jenna,Horne,36-45,Other,West,100-200k,Retail Banking
+11214,Shelly,Weber,26-35,Male,South,<50k,Priority
+11215,Samuel,Dickerson,36-45,Other,North,200k+,Retail Banking
+11216,Peggy,Reeves,18-25,Other,West,100-200k,Priority
+11217,Patrick,Martinez,60+,Other,South,200k+,Corporate
+11218,William,Lee,26-35,Female,South,100-200k,Retail Banking
+11219,Emily,Richardson,26-35,Female,North,200k+,Priority
+11220,George,Nguyen,46-60,Other,West,100-200k,Retail Banking
+11221,Leslie,Winters,26-35,Other,South,<50k,Corporate
+11222,Carla,Price,18-25,Other,North,200k+,Priority
+11223,Dennis,Abbott,18-25,Female,East,200k+,Corporate
+11224,Maria,Nelson,26-35,Other,West,200k+,Priority
+11225,Robert,Stevens,60+,Female,South,200k+,Priority
+11226,Wayne,King,26-35,Other,North,100-200k,Priority
+11227,Crystal,Miller,46-60,Other,West,50-100k,Corporate
+11228,Tabitha,Ortega,60+,Female,East,100-200k,Retail Banking
+11229,Jonathan,Cross,26-35,Male,West,200k+,Retail Banking
+11230,Taylor,West,18-25,Female,North,<50k,Retail Banking
+11231,Jason,Riley,60+,Female,West,50-100k,Retail Banking
+11232,Anthony,Kelley,18-25,Female,North,200k+,Retail Banking
+11233,Dana,Alvarez,36-45,Male,North,50-100k,Corporate
+11234,Ruben,Torres,26-35,Other,East,<50k,Corporate
+11235,Kimberly,Stevens,18-25,Male,North,<50k,Retail Banking
+11236,Lauren,Schmidt,36-45,Male,South,<50k,Retail Banking
+11237,Donna,Alvarez,18-25,Other,West,<50k,Corporate
+11238,Nancy,Hester,36-45,Female,West,50-100k,Priority
+11239,Mark,Dunlap,36-45,Male,East,100-200k,Retail Banking
+11240,Bruce,Morris,36-45,Other,East,200k+,Corporate
+11241,Joseph,Nolan,36-45,Male,South,100-200k,Retail Banking
+11242,Matthew,Hill,18-25,Male,East,100-200k,Corporate
+11243,William,Cook,60+,Female,East,200k+,Priority
+11244,Rebecca,Tran,60+,Other,West,<50k,Corporate
+11245,Kevin,Lynch,18-25,Other,East,100-200k,Retail Banking
+11246,Adam,Rodriguez,60+,Male,North,50-100k,Corporate
+11247,Bryce,Ramirez,60+,Male,North,50-100k,Corporate
+11248,Joan,White,46-60,Female,South,<50k,Retail Banking
+11249,Stephanie,Gonzalez,36-45,Female,North,<50k,Corporate
+11250,Lisa,Wheeler,60+,Male,West,200k+,Corporate
+11251,Robert,Kane,26-35,Female,South,200k+,Retail Banking
+11252,Heather,Ramirez,26-35,Male,South,<50k,Priority
+11253,Megan,Jimenez,46-60,Male,West,<50k,Corporate
+11254,Autumn,Beck,18-25,Other,East,<50k,Corporate
+11255,Kimberly,Beard,60+,Female,North,200k+,Priority
+11256,Mark,Lin,46-60,Female,North,<50k,Corporate
+11257,Zachary,Gill,60+,Male,North,100-200k,Retail Banking
+11258,Robert,Caldwell,18-25,Male,North,100-200k,Corporate
+11259,Tiffany,Torres,26-35,Other,West,50-100k,Corporate
+11260,Alec,Turner,26-35,Other,East,200k+,Priority
+11261,Teresa,Barry,18-25,Other,East,200k+,Priority
+11262,Scott,Dillon,36-45,Other,West,<50k,Corporate
+11263,Michael,Chang,36-45,Male,West,100-200k,Corporate
+11264,John,Green,46-60,Female,North,100-200k,Retail Banking
+11265,Jody,Joseph,26-35,Male,West,200k+,Retail Banking
+11266,Beverly,Glover,18-25,Other,West,50-100k,Corporate
+11267,Jean,Smith,36-45,Female,South,<50k,Retail Banking
+11268,Tara,Bird,36-45,Female,West,200k+,Retail Banking
+11269,Michelle,Braun,36-45,Male,South,50-100k,Retail Banking
+11270,Karen,Pham,18-25,Male,South,<50k,Corporate
+11271,Sandra,Turner,60+,Male,North,50-100k,Corporate
+11272,Natalie,Torres,18-25,Male,East,100-200k,Retail Banking
+11273,Robert,Porter,60+,Male,West,50-100k,Priority
+11274,Nicholas,Jackson,46-60,Other,East,50-100k,Priority
+11275,Robert,Stark,26-35,Female,South,50-100k,Priority
+11276,Jorge,Dalton,60+,Male,North,100-200k,Retail Banking
+11277,Kathleen,Davis,36-45,Male,East,100-200k,Priority
+11278,Brenda,Heath,60+,Other,West,<50k,Corporate
+11279,Cheryl,Rivera,36-45,Male,South,200k+,Priority
+11280,Heather,Thompson,36-45,Female,North,50-100k,Corporate
+11281,Laura,Reynolds,18-25,Male,North,<50k,Retail Banking
+11282,Joshua,Johnston,46-60,Other,West,50-100k,Corporate
+11283,Susan,Walker,26-35,Other,South,200k+,Corporate
+11284,Morgan,Marsh,60+,Female,East,100-200k,Retail Banking
+11285,Richard,Anderson,26-35,Female,South,200k+,Corporate
+11286,Christina,Morris,60+,Other,North,100-200k,Retail Banking
+11287,Krystal,Weeks,36-45,Female,East,200k+,Retail Banking
+11288,Andrea,Nguyen,18-25,Other,East,50-100k,Priority
+11289,Jason,Gonzalez,26-35,Other,West,100-200k,Retail Banking
+11290,Tyler,Lee,18-25,Female,East,<50k,Corporate
+11291,Eric,Gordon,26-35,Male,North,50-100k,Retail Banking
+11292,Candice,Park,26-35,Male,East,50-100k,Priority
+11293,Benjamin,Mayo,26-35,Female,South,100-200k,Retail Banking
+11294,Brian,Hill,26-35,Male,South,<50k,Priority
+11295,Steven,Page,60+,Male,North,50-100k,Corporate
+11296,Amanda,Garcia,36-45,Other,West,<50k,Priority
+11297,Wendy,Hester,60+,Other,North,<50k,Priority
+11298,Suzanne,Rodriguez,18-25,Female,East,<50k,Retail Banking
+11299,Ariel,Murray,18-25,Male,North,<50k,Corporate
+11300,Jacqueline,Phillips,18-25,Other,East,200k+,Retail Banking
+11301,Benjamin,Barnes,26-35,Other,North,<50k,Priority
+11302,Nicole,Ward,36-45,Female,North,50-100k,Corporate
+11303,Cathy,Moore,46-60,Other,East,<50k,Priority
+11304,Jenna,Moore,26-35,Other,East,50-100k,Priority
+11305,Heather,Rodriguez,60+,Other,South,50-100k,Retail Banking
+11306,Renee,Brennan,18-25,Female,East,<50k,Priority
+11307,Valerie,Barnes,36-45,Other,West,50-100k,Priority
+11308,Justin,Price,60+,Female,East,50-100k,Priority
+11309,Mary,Riggs,26-35,Other,South,200k+,Retail Banking
+11310,Ashley,Mercer,18-25,Male,East,200k+,Retail Banking
+11311,Danielle,Patel,60+,Other,West,50-100k,Corporate
+11312,Amanda,Barnes,36-45,Female,North,200k+,Priority
+11313,Robin,Murray,26-35,Male,West,100-200k,Retail Banking
+11314,Mackenzie,Jones,18-25,Male,West,200k+,Priority
+11315,Philip,Vargas,18-25,Other,East,<50k,Retail Banking
+11316,Brian,Jackson,46-60,Male,South,100-200k,Priority
+11317,Denise,Cardenas,26-35,Male,West,100-200k,Corporate
+11318,Tracy,Valdez,60+,Female,South,200k+,Corporate
+11319,Courtney,Thornton,60+,Other,North,100-200k,Corporate
+11320,Natalie,Martinez,18-25,Male,East,200k+,Retail Banking
+11321,Elizabeth,Green,18-25,Other,South,50-100k,Priority
+11322,Ashley,Reese,26-35,Male,East,<50k,Retail Banking
+11323,Bruce,Payne,60+,Male,East,<50k,Retail Banking
+11324,Seth,Peterson,46-60,Male,South,<50k,Priority
+11325,Jonathan,Cox,46-60,Other,South,100-200k,Corporate
+11326,Daniel,Duran,60+,Other,South,50-100k,Corporate
+11327,Mitchell,Warren,18-25,Other,North,200k+,Priority
+11328,Scott,Moon,36-45,Other,West,<50k,Corporate
+11329,Emily,Knox,18-25,Male,South,<50k,Priority
+11330,Steve,Collier,26-35,Male,North,50-100k,Retail Banking
+11331,Tracey,Campbell,26-35,Female,West,50-100k,Retail Banking
+11332,Samantha,Serrano,60+,Other,South,100-200k,Priority
+11333,Michael,Ramirez,60+,Male,South,100-200k,Corporate
+11334,Emily,Gonzalez,18-25,Male,South,100-200k,Retail Banking
+11335,Jean,Snyder,60+,Other,North,100-200k,Priority
+11336,Catherine,Wagner,46-60,Other,South,200k+,Retail Banking
+11337,Kristin,Martin,36-45,Other,West,50-100k,Retail Banking
+11338,Peter,Lynch,46-60,Male,North,<50k,Corporate
+11339,Colin,Smith,60+,Male,West,<50k,Corporate
+11340,Susan,Lara,26-35,Female,East,200k+,Corporate
+11341,Phillip,Miranda,18-25,Female,West,200k+,Priority
+11342,Jacob,Parker,60+,Other,South,100-200k,Priority
+11343,Linda,Thompson,18-25,Female,East,200k+,Corporate
+11344,Robert,Watson,26-35,Male,East,50-100k,Priority
+11345,Elizabeth,Ball,60+,Male,East,<50k,Corporate
+11346,Sarah,Schmidt,18-25,Other,East,<50k,Retail Banking
+11347,Valerie,Foley,60+,Male,North,50-100k,Retail Banking
+11348,Jimmy,Jensen,18-25,Female,West,<50k,Retail Banking
+11349,Christopher,Taylor,36-45,Other,North,200k+,Retail Banking
+11350,Kyle,Brown,36-45,Male,West,50-100k,Corporate
+11351,Anne,Allison,36-45,Female,South,200k+,Priority
+11352,Wendy,Peterson,46-60,Female,West,200k+,Retail Banking
+11353,Christopher,Mcfarland,46-60,Female,South,200k+,Priority
+11354,Eduardo,Lowe,18-25,Male,West,200k+,Corporate
+11355,Micheal,Bryant,46-60,Female,North,50-100k,Corporate
+11356,Sharon,Gonzalez,18-25,Other,East,50-100k,Corporate
+11357,Michael,Thomas,36-45,Male,North,<50k,Corporate
+11358,Michael,Gray,36-45,Male,East,<50k,Retail Banking
+11359,William,Bishop,46-60,Female,West,200k+,Priority
+11360,Ronald,Bailey,60+,Female,South,<50k,Retail Banking
+11361,Pamela,Cordova,26-35,Male,South,200k+,Priority
+11362,Brandi,Love,18-25,Female,South,50-100k,Retail Banking
+11363,Deborah,Wilson,36-45,Male,East,200k+,Retail Banking
+11364,Lindsay,Whitehead,46-60,Female,South,<50k,Retail Banking
+11365,Albert,Lopez,26-35,Male,South,<50k,Retail Banking
+11366,Douglas,Sutton,26-35,Male,South,50-100k,Corporate
+11367,Jeremy,Gomez,36-45,Female,South,100-200k,Retail Banking
+11368,Thomas,Murphy,26-35,Female,West,<50k,Corporate
+11369,Amanda,Richardson,36-45,Other,South,<50k,Priority
+11370,Jorge,Joseph,60+,Female,North,100-200k,Retail Banking
+11371,Elizabeth,Martin,60+,Male,South,<50k,Retail Banking
+11372,Ashley,Smith,36-45,Male,East,100-200k,Priority
+11373,William,Juarez,18-25,Male,East,50-100k,Retail Banking
+11374,Ashley,Reynolds,46-60,Female,East,50-100k,Retail Banking
+11375,Christian,Becker,60+,Male,South,200k+,Priority
+11376,Christopher,Ramirez,18-25,Female,West,<50k,Priority
+11377,Mallory,Lewis,36-45,Female,West,50-100k,Retail Banking
+11378,Nicholas,Brown,26-35,Female,West,<50k,Priority
+11379,Melissa,Guerrero,36-45,Male,South,200k+,Corporate
+11380,Amy,Allen,26-35,Male,East,200k+,Priority
+11381,Henry,Williams,36-45,Male,East,100-200k,Priority
+11382,Jared,Ferguson,36-45,Other,South,100-200k,Retail Banking
+11383,Jamie,Boone,36-45,Female,South,100-200k,Priority
+11384,Christopher,Osborne,46-60,Male,North,200k+,Corporate
+11385,Katie,Rogers,26-35,Male,West,100-200k,Priority
+11386,Thomas,Gomez,46-60,Female,West,50-100k,Priority
+11387,Mark,Robinson,46-60,Female,West,<50k,Retail Banking
+11388,Amber,Bennett,60+,Male,East,50-100k,Retail Banking
+11389,Edward,Pena,18-25,Female,North,<50k,Priority
+11390,Melinda,Brown,46-60,Other,West,100-200k,Priority
+11391,Suzanne,Nichols,60+,Male,South,<50k,Priority
+11392,Mark,Yu,26-35,Male,East,<50k,Corporate
+11393,Riley,Gibson,36-45,Male,North,200k+,Retail Banking
+11394,Mark,Grimes,60+,Other,South,100-200k,Retail Banking
+11395,John,Armstrong,18-25,Female,North,100-200k,Priority
+11396,Amy,Duffy,60+,Other,East,50-100k,Corporate
+11397,Jocelyn,Lewis,60+,Male,East,100-200k,Corporate
+11398,Paul,Diaz,46-60,Other,North,100-200k,Retail Banking
+11399,Joseph,Vang,36-45,Male,North,200k+,Priority
+11400,Anthony,Nichols,26-35,Other,East,100-200k,Corporate
+11401,Edward,Santos,60+,Male,South,<50k,Corporate
+11402,Angela,Williams,46-60,Female,South,200k+,Retail Banking
+11403,James,Odom,26-35,Male,South,100-200k,Priority
+11404,Alex,Simmons,26-35,Female,North,100-200k,Retail Banking
+11405,Brianna,Reese,26-35,Other,North,200k+,Corporate
+11406,Heather,Evans,60+,Other,East,100-200k,Corporate
+11407,Brandy,Taylor,18-25,Female,South,50-100k,Priority
+11408,Thomas,Bautista,46-60,Other,West,200k+,Priority
+11409,Shawn,Young,18-25,Other,North,50-100k,Priority
+11410,Kayla,Williams,26-35,Male,South,200k+,Priority
+11411,John,Jones,46-60,Male,East,<50k,Retail Banking
+11412,Michael,Martin,46-60,Male,East,100-200k,Priority
+11413,Amy,Wagner,36-45,Male,South,<50k,Priority
+11414,Veronica,Levine,36-45,Male,South,<50k,Priority
+11415,Dalton,Robinson,46-60,Male,West,100-200k,Priority
+11416,James,Cain,60+,Male,West,50-100k,Corporate
+11417,Stacy,Wise,60+,Other,East,100-200k,Retail Banking
+11418,Adrian,Evans,18-25,Female,East,100-200k,Retail Banking
+11419,Teresa,Perez,36-45,Male,West,200k+,Corporate
+11420,Andrea,Humphrey,18-25,Female,East,100-200k,Corporate
+11421,Kathryn,Mccoy,26-35,Other,East,100-200k,Corporate
+11422,Dana,Baker,26-35,Female,East,200k+,Priority
+11423,Jennifer,Bryant,46-60,Male,East,50-100k,Corporate
+11424,Jill,Gomez,26-35,Male,North,50-100k,Priority
+11425,Wendy,Le,46-60,Male,North,200k+,Priority
+11426,Kelly,Glover,26-35,Other,North,50-100k,Priority
+11427,Timothy,Adams,46-60,Female,East,50-100k,Corporate
+11428,Vanessa,Thompson,60+,Female,North,<50k,Corporate
+11429,Nicole,Graham,36-45,Male,West,200k+,Corporate
+11430,Calvin,Rodriguez,26-35,Male,North,200k+,Retail Banking
+11431,Brandy,Richardson,60+,Male,West,100-200k,Priority
+11432,Anthony,Dickerson,46-60,Other,East,200k+,Priority
+11433,Barbara,Gibson,26-35,Other,North,200k+,Retail Banking
+11434,Stephanie,Rivera,46-60,Other,East,100-200k,Retail Banking
+11435,Laura,Matthews,46-60,Female,West,200k+,Priority
+11436,Tony,Clark,26-35,Other,North,50-100k,Corporate
+11437,Sabrina,Evans,60+,Other,North,100-200k,Retail Banking
+11438,Julie,Stanley,60+,Other,North,50-100k,Priority
+11439,Cory,Khan,46-60,Female,South,50-100k,Retail Banking
+11440,Lisa,Hood,36-45,Male,East,200k+,Retail Banking
+11441,Kenneth,Thomas,36-45,Male,East,100-200k,Priority
+11442,Stephanie,Hayden,26-35,Female,North,200k+,Priority
+11443,Jacqueline,Curry,18-25,Male,East,100-200k,Retail Banking
+11444,Arthur,Thomas,18-25,Other,South,100-200k,Corporate
+11445,Erica,Reynolds,46-60,Female,South,50-100k,Retail Banking
+11446,David,Williams,18-25,Other,North,100-200k,Retail Banking
+11447,Thomas,Jones,36-45,Female,East,200k+,Retail Banking
+11448,Tara,Parker,46-60,Male,West,100-200k,Corporate
+11449,Kendra,Sherman,46-60,Other,East,<50k,Corporate
+11450,Jacob,Bailey,36-45,Other,North,<50k,Corporate
+11451,Robert,Evans,60+,Male,West,<50k,Corporate
+11452,Brittany,Miller,46-60,Other,North,100-200k,Corporate
+11453,Melissa,Castillo,46-60,Male,South,50-100k,Priority
+11454,Bonnie,Jordan,46-60,Other,West,50-100k,Retail Banking
+11455,Sarah,Thompson,60+,Male,East,200k+,Retail Banking
+11456,Kristen,Anderson,36-45,Female,East,50-100k,Priority
+11457,Nichole,Griffin,26-35,Male,East,100-200k,Retail Banking
+11458,Mary,Kennedy,60+,Other,West,200k+,Priority
+11459,Kristen,Moore,46-60,Male,North,<50k,Corporate
+11460,Shelly,Barton,36-45,Male,North,100-200k,Retail Banking
+11461,David,Hill,46-60,Other,West,<50k,Priority
+11462,Clarence,Santana,36-45,Male,North,<50k,Corporate
+11463,Paul,Howard,46-60,Male,East,<50k,Priority
+11464,Paula,Mora,26-35,Female,North,50-100k,Retail Banking
+11465,Wayne,Jimenez,26-35,Male,West,<50k,Priority
+11466,Lori,Dunlap,18-25,Female,North,200k+,Priority
+11467,Cynthia,Adams,46-60,Male,South,200k+,Retail Banking
+11468,Janet,Brewer,60+,Female,North,100-200k,Priority
+11469,April,Barrett,60+,Other,East,200k+,Corporate
+11470,Alicia,Griffin,26-35,Other,West,200k+,Retail Banking
+11471,Renee,Jones,36-45,Female,West,100-200k,Retail Banking
+11472,Tamara,Hamilton,36-45,Female,West,100-200k,Corporate
+11473,Thomas,West,60+,Male,North,50-100k,Corporate
+11474,Brandon,Elliott,26-35,Male,East,<50k,Retail Banking
+11475,Arthur,Jackson,46-60,Male,South,200k+,Corporate
+11476,Alexis,Terrell,46-60,Male,East,100-200k,Corporate
+11477,Carrie,Chapman,18-25,Male,East,100-200k,Corporate
+11478,Lonnie,Barnett,46-60,Female,North,<50k,Priority
+11479,Desiree,Silva,26-35,Other,East,200k+,Retail Banking
+11480,Juan,Acevedo,26-35,Other,North,200k+,Corporate
+11481,Paige,Dougherty,46-60,Female,West,50-100k,Corporate
+11482,Sherry,Rojas,18-25,Male,West,100-200k,Retail Banking
+11483,Dean,White,60+,Other,East,100-200k,Priority
+11484,Stephen,Chang,46-60,Male,North,200k+,Corporate
+11485,Phillip,Baker,26-35,Other,North,50-100k,Retail Banking
+11486,Chelsea,Johns,46-60,Male,East,50-100k,Retail Banking
+11487,Sarah,Carroll,26-35,Female,West,100-200k,Corporate
+11488,Levi,Ramsey,26-35,Female,West,200k+,Priority
+11489,Richard,Smith,26-35,Male,West,100-200k,Corporate
+11490,Mercedes,Rodriguez,46-60,Other,South,50-100k,Retail Banking
+11491,Michael,Taylor,36-45,Male,East,100-200k,Corporate
+11492,Tyler,Wong,18-25,Female,West,100-200k,Corporate
+11493,Bryan,Harper,18-25,Male,East,100-200k,Corporate
+11494,Jennifer,Reed,46-60,Female,East,200k+,Corporate
+11495,Theresa,Castaneda,26-35,Male,West,50-100k,Priority
+11496,Eric,Smith,36-45,Male,West,200k+,Priority
+11497,Karen,Lee,46-60,Other,North,200k+,Retail Banking
+11498,Robert,Lewis,26-35,Other,West,50-100k,Retail Banking
+11499,Robert,Henderson,18-25,Other,North,200k+,Retail Banking
+11500,Jeffery,Oconnor,36-45,Male,South,50-100k,Priority
+11501,Rachel,Blevins,60+,Female,South,<50k,Priority
+11502,Stefanie,Burns,36-45,Other,North,100-200k,Priority
+11503,Stephen,Jackson,60+,Other,East,100-200k,Corporate
+11504,Cassandra,Huang,18-25,Female,South,50-100k,Priority
+11505,Sarah,Rios,46-60,Other,West,<50k,Retail Banking
+11506,Spencer,Alvarez,26-35,Male,North,50-100k,Retail Banking
+11507,Sharon,Love,60+,Other,East,<50k,Corporate
+11508,Seth,Holmes,26-35,Male,West,<50k,Retail Banking
+11509,Megan,Fletcher,46-60,Other,East,200k+,Priority
+11510,James,Cunningham,36-45,Male,East,200k+,Corporate
+11511,Francisco,Vasquez,18-25,Other,South,50-100k,Corporate
+11512,John,Orr,26-35,Male,East,50-100k,Priority
+11513,Kayla,Stanley,18-25,Female,East,200k+,Retail Banking
+11514,Kevin,Huber,60+,Other,South,200k+,Corporate
+11515,Anna,Campos,60+,Male,West,200k+,Retail Banking
+11516,Troy,Thomas,26-35,Female,East,50-100k,Retail Banking
+11517,Debra,Hanson,18-25,Female,West,100-200k,Corporate
+11518,John,Willis,60+,Other,South,50-100k,Corporate
+11519,Jason,Jones,46-60,Female,West,50-100k,Corporate
+11520,April,Rush,46-60,Female,West,50-100k,Corporate
+11521,Matthew,York,26-35,Other,South,100-200k,Retail Banking
+11522,Denise,Fry,18-25,Female,South,200k+,Retail Banking
+11523,Melissa,Maldonado,60+,Other,East,200k+,Corporate
+11524,Tyler,Nguyen,60+,Male,West,200k+,Retail Banking
+11525,Jennifer,Swanson,18-25,Other,North,100-200k,Corporate
+11526,Jorge,Williams,60+,Male,West,200k+,Corporate
+11527,Tyler,Jones,60+,Female,East,200k+,Retail Banking
+11528,Madison,Butler,26-35,Other,North,50-100k,Corporate
+11529,Cynthia,Hayes,60+,Male,North,200k+,Corporate
+11530,Bryan,Miller,46-60,Other,South,<50k,Corporate
+11531,John,Bridges,36-45,Male,West,50-100k,Corporate
+11532,Nancy,Cooper,60+,Male,East,100-200k,Retail Banking
+11533,William,Wright,60+,Male,East,50-100k,Priority
+11534,Vanessa,Lozano,36-45,Female,North,50-100k,Priority
+11535,Brian,Allen,36-45,Female,North,200k+,Retail Banking
+11536,Kristin,Hayes,36-45,Other,East,50-100k,Retail Banking
+11537,Derek,Maldonado,26-35,Male,East,200k+,Corporate
+11538,Michele,Roberts,26-35,Female,West,50-100k,Retail Banking
+11539,Brendan,Juarez,18-25,Female,North,50-100k,Priority
+11540,Michael,Bates,18-25,Female,South,50-100k,Retail Banking
+11541,Amanda,Martinez,36-45,Male,South,200k+,Corporate
+11542,Daniel,Nelson,18-25,Male,South,50-100k,Retail Banking
+11543,Nicholas,Webb,60+,Female,East,50-100k,Retail Banking
+11544,Deborah,Adams,46-60,Other,West,50-100k,Corporate
+11545,Phillip,Robinson,36-45,Other,North,100-200k,Priority
+11546,Joshua,Lee,26-35,Other,West,50-100k,Priority
+11547,Shane,Wallace,46-60,Female,North,100-200k,Corporate
+11548,William,Butler,46-60,Other,West,200k+,Priority
+11549,Michael,Morris,26-35,Female,West,50-100k,Corporate
+11550,Elizabeth,Garner,36-45,Female,North,200k+,Corporate
+11551,Lisa,Newman,26-35,Other,West,50-100k,Retail Banking
+11552,Pamela,Roach,18-25,Other,South,200k+,Retail Banking
+11553,Christopher,Powell,26-35,Other,East,200k+,Retail Banking
+11554,Jennifer,Guerrero,60+,Female,West,50-100k,Retail Banking
+11555,David,Duran,60+,Other,East,200k+,Priority
+11556,Jonathan,Evans,60+,Male,West,100-200k,Priority
+11557,David,Foster,60+,Male,South,100-200k,Corporate
+11558,Danielle,Anderson,60+,Other,West,100-200k,Priority
+11559,Sally,Briggs,36-45,Other,West,200k+,Corporate
+11560,Elizabeth,Bradley,60+,Other,South,200k+,Corporate
+11561,Kristopher,Parker,18-25,Male,East,200k+,Corporate
+11562,Aaron,Phillips,18-25,Female,South,50-100k,Retail Banking
+11563,Nicholas,Frey,46-60,Female,South,100-200k,Priority
+11564,Jeffery,Black,46-60,Other,East,50-100k,Priority
+11565,Krystal,Carpenter,60+,Female,North,200k+,Corporate
+11566,Andrew,Stone,36-45,Other,South,<50k,Corporate
+11567,Rodney,Moran,46-60,Female,North,<50k,Priority
+11568,Breanna,Travis,36-45,Other,South,<50k,Corporate
+11569,Louis,Taylor,18-25,Male,East,200k+,Retail Banking
+11570,Ashley,Sharp,18-25,Male,North,50-100k,Corporate
+11571,Lauren,Yates,60+,Female,North,200k+,Corporate
+11572,Lucas,Cortez,60+,Male,West,<50k,Retail Banking
+11573,Cathy,Anderson,46-60,Other,West,50-100k,Corporate
+11574,Melanie,Irwin,26-35,Female,West,200k+,Retail Banking
+11575,William,Odonnell,46-60,Male,North,100-200k,Priority
+11576,Kristin,Miller,36-45,Female,North,<50k,Retail Banking
+11577,William,Mcgrath,18-25,Other,West,100-200k,Retail Banking
+11578,Sarah,Lopez,36-45,Female,East,50-100k,Retail Banking
+11579,Anthony,Giles,46-60,Male,North,<50k,Corporate
+11580,Alyssa,Mcintyre,26-35,Male,South,50-100k,Corporate
+11581,Julie,Ramirez,18-25,Male,East,100-200k,Retail Banking
+11582,Kayla,Rhodes,60+,Other,West,<50k,Corporate
+11583,Jessica,Escobar,46-60,Male,West,50-100k,Corporate
+11584,Alexandria,Dominguez,36-45,Other,South,200k+,Corporate
+11585,Amanda,Harris,60+,Female,South,100-200k,Priority
+11586,Christopher,Harper,46-60,Other,West,200k+,Retail Banking
+11587,Lauren,Franklin,36-45,Female,South,100-200k,Retail Banking
+11588,Bryan,Dawson,60+,Other,North,200k+,Retail Banking
+11589,Latasha,Roberts,36-45,Other,East,<50k,Retail Banking
+11590,Lindsey,Craig,18-25,Other,South,200k+,Retail Banking
+11591,Thomas,Gentry,18-25,Female,East,200k+,Retail Banking
+11592,Wanda,Bates,26-35,Male,West,<50k,Priority
+11593,Jennifer,Espinoza,18-25,Female,West,<50k,Retail Banking
+11594,Carolyn,Davis,60+,Female,West,200k+,Corporate
+11595,William,Robertson,18-25,Female,North,50-100k,Priority
+11596,Christopher,Faulkner,46-60,Male,North,100-200k,Priority
+11597,Carol,Ross,26-35,Male,West,<50k,Retail Banking
+11598,Eric,Flores,26-35,Male,South,200k+,Priority
+11599,Alexander,Rose,60+,Male,West,50-100k,Priority
+11600,Danny,Potter,46-60,Male,West,200k+,Retail Banking
+11601,Mitchell,Garrett,18-25,Other,West,<50k,Retail Banking
+11602,Terry,Landry,60+,Female,East,200k+,Retail Banking
+11603,Maria,Hernandez,26-35,Male,East,100-200k,Priority
+11604,Amy,King,26-35,Other,East,<50k,Priority
+11605,Matthew,Smith,18-25,Male,East,100-200k,Retail Banking
+11606,Kelly,Thompson,18-25,Male,East,100-200k,Priority
+11607,Dale,Smith,36-45,Male,South,<50k,Retail Banking
+11608,Anthony,Chase,46-60,Male,North,<50k,Retail Banking
+11609,Amber,Martinez,18-25,Female,South,50-100k,Priority
+11610,Jonathan,Roberts,46-60,Other,South,50-100k,Corporate
+11611,Jennifer,Burns,60+,Other,West,200k+,Priority
+11612,Lawrence,Compton,60+,Other,South,50-100k,Corporate
+11613,Danny,Powell,36-45,Other,South,100-200k,Corporate
+11614,Craig,Davis,36-45,Male,North,100-200k,Priority
+11615,Garrett,Meyer,18-25,Male,West,50-100k,Priority
+11616,Joseph,Hobbs,60+,Male,South,50-100k,Priority
+11617,Shannon,Johnston,36-45,Male,West,100-200k,Retail Banking
+11618,James,Shields,46-60,Female,South,50-100k,Priority
+11619,Alexandria,Maxwell,26-35,Female,West,200k+,Retail Banking
+11620,Thomas,Buchanan,46-60,Female,East,50-100k,Priority
+11621,Andrew,Miller,36-45,Female,South,50-100k,Priority
+11622,Christopher,Barrera,46-60,Male,North,200k+,Priority
+11623,Allison,Booth,46-60,Male,South,100-200k,Corporate
+11624,Christopher,Campbell,18-25,Male,North,200k+,Corporate
+11625,James,Cantrell,46-60,Male,East,50-100k,Corporate
+11626,Phillip,Ewing,60+,Female,East,50-100k,Priority
+11627,Thomas,Cline,46-60,Other,East,50-100k,Corporate
+11628,Ellen,Carpenter,18-25,Female,North,200k+,Priority
+11629,Ricardo,Jackson,18-25,Other,South,<50k,Priority
+11630,Martha,Ruiz,60+,Female,West,200k+,Priority
+11631,Larry,Willis,18-25,Male,West,100-200k,Retail Banking
+11632,Robert,Robbins,36-45,Male,East,200k+,Retail Banking
+11633,Gabriel,Lane,26-35,Other,South,200k+,Priority
+11634,Breanna,Thomas,36-45,Other,South,50-100k,Priority
+11635,Jeffrey,Stephens,26-35,Other,North,50-100k,Retail Banking
+11636,Alfred,Hodges,26-35,Other,East,50-100k,Retail Banking
+11637,Mary,Bowman,46-60,Male,North,100-200k,Retail Banking
+11638,Abigail,Brown,60+,Male,North,100-200k,Retail Banking
+11639,Sarah,Ramos,46-60,Male,East,100-200k,Retail Banking
+11640,Adrienne,Cunningham,46-60,Male,West,<50k,Priority
+11641,James,Klein,18-25,Female,South,<50k,Priority
+11642,Gregory,Krause,36-45,Female,West,100-200k,Retail Banking
+11643,Katrina,Watts,46-60,Female,East,200k+,Priority
+11644,Andrea,Santos,60+,Male,South,<50k,Priority
+11645,Gloria,Beck,26-35,Male,East,<50k,Corporate
+11646,Rodney,Bowers,36-45,Female,West,50-100k,Retail Banking
+11647,Joanne,Snow,60+,Female,North,50-100k,Corporate
+11648,Jessica,Hamilton,46-60,Female,West,50-100k,Priority
+11649,Andrea,Jones,46-60,Other,West,100-200k,Priority
+11650,Tammy,Trujillo,60+,Female,North,100-200k,Priority
+11651,John,Leon,18-25,Female,East,<50k,Retail Banking
+11652,Ronald,Abbott,26-35,Other,West,<50k,Retail Banking
+11653,Brenda,Herman,36-45,Male,South,100-200k,Corporate
+11654,Patrick,Trujillo,36-45,Other,North,50-100k,Priority
+11655,Amber,Mann,26-35,Other,North,50-100k,Retail Banking
+11656,Robert,Barber,60+,Female,North,<50k,Corporate
+11657,Denise,Jacobs,26-35,Male,East,100-200k,Retail Banking
+11658,Amanda,Johnson,36-45,Other,South,100-200k,Corporate
+11659,Stacey,Rush,36-45,Male,West,200k+,Priority
+11660,Paul,Price,18-25,Female,North,100-200k,Corporate
+11661,Cheryl,Mcclain,60+,Female,North,<50k,Retail Banking
+11662,Justin,Irwin,46-60,Male,North,200k+,Corporate
+11663,Jasmine,Cummings,60+,Female,West,<50k,Priority
+11664,Nancy,Gray,26-35,Other,West,100-200k,Priority
+11665,Beth,Hamilton,26-35,Other,East,100-200k,Priority
+11666,Nathan,Johnson,46-60,Female,South,<50k,Retail Banking
+11667,Nathaniel,Hutchinson,26-35,Other,South,<50k,Priority
+11668,Brian,Mcdaniel,26-35,Female,North,200k+,Priority
+11669,Rachael,Mann,26-35,Female,East,50-100k,Corporate
+11670,Mary,Robinson,18-25,Other,West,<50k,Retail Banking
+11671,Tara,Hester,26-35,Male,North,<50k,Corporate
+11672,Colleen,Russell,36-45,Female,East,200k+,Priority
+11673,Curtis,Odonnell,26-35,Male,North,200k+,Corporate
+11674,Melanie,Jacobs,60+,Female,North,200k+,Corporate
+11675,Brian,Beltran,26-35,Other,East,50-100k,Priority
+11676,Ashley,Hill,36-45,Female,East,<50k,Priority
+11677,Elizabeth,Gray,36-45,Male,West,50-100k,Retail Banking
+11678,Charles,Sweeney,46-60,Female,South,50-100k,Corporate
+11679,Larry,Watson,60+,Other,East,200k+,Priority
+11680,Katherine,Andrade,60+,Female,North,200k+,Corporate
+11681,Terri,Wilson,18-25,Other,East,<50k,Retail Banking
+11682,Dean,Bryant,36-45,Male,North,200k+,Priority
+11683,April,Williams,26-35,Other,West,100-200k,Priority
+11684,Jennifer,Martin,26-35,Male,North,50-100k,Retail Banking
+11685,Tamara,Ramirez,26-35,Male,North,100-200k,Retail Banking
+11686,Wesley,Wagner,36-45,Male,West,200k+,Priority
+11687,Katherine,Villa,26-35,Male,West,50-100k,Priority
+11688,Sandra,Flores,46-60,Male,East,100-200k,Retail Banking
+11689,Nathan,Stevenson,60+,Other,West,<50k,Priority
+11690,Kenneth,Tran,36-45,Other,East,200k+,Retail Banking
+11691,Monica,Jenkins,36-45,Male,East,<50k,Priority
+11692,Jennifer,Hicks,46-60,Other,North,<50k,Corporate
+11693,Jessica,Jackson,18-25,Other,East,50-100k,Retail Banking
+11694,Nathaniel,Butler,26-35,Male,South,<50k,Retail Banking
+11695,Stephanie,Garcia,60+,Male,South,100-200k,Priority
+11696,Deborah,Larson,36-45,Female,South,<50k,Corporate
+11697,Martin,Jones,60+,Other,South,100-200k,Corporate
+11698,Kyle,Butler,46-60,Male,South,50-100k,Priority
+11699,Christopher,Olson,18-25,Female,South,200k+,Corporate
+11700,Brenda,Ross,36-45,Female,North,100-200k,Retail Banking
+11701,Brittany,Roberts,36-45,Male,South,100-200k,Priority
+11702,Andrew,Smith,18-25,Other,North,50-100k,Corporate
+11703,Stephen,Reeves,26-35,Female,North,50-100k,Retail Banking
+11704,Cassidy,Bell,46-60,Female,East,50-100k,Priority
+11705,Kevin,Davenport,46-60,Other,East,200k+,Retail Banking
+11706,Jeffrey,Curry,26-35,Male,East,<50k,Retail Banking
+11707,Arthur,Banks,46-60,Female,South,100-200k,Corporate
+11708,Emily,Rojas,18-25,Other,West,100-200k,Retail Banking
+11709,Lauren,Young,26-35,Female,East,200k+,Corporate
+11710,William,David,46-60,Other,West,<50k,Priority
+11711,Michelle,Kelly,36-45,Other,West,50-100k,Retail Banking
+11712,Daniel,Hall,60+,Male,East,50-100k,Retail Banking
+11713,Ashley,Moran,36-45,Male,North,200k+,Retail Banking
+11714,Charlotte,Fox,46-60,Other,West,<50k,Priority
+11715,Charlotte,Ortiz,46-60,Other,West,<50k,Corporate
+11716,Jennifer,Phelps,46-60,Female,South,200k+,Priority
+11717,Joseph,Wood,36-45,Female,South,100-200k,Corporate
+11718,Jose,Hernandez,46-60,Male,West,100-200k,Corporate
+11719,Thomas,Bell,26-35,Other,South,<50k,Corporate
+11720,Christopher,Garcia,18-25,Female,West,200k+,Corporate
+11721,Arthur,Hall,46-60,Other,South,100-200k,Priority
+11722,Elijah,Fleming,60+,Male,West,200k+,Corporate
+11723,Jeffrey,Mosley,26-35,Female,East,200k+,Priority
+11724,Chad,Hughes,60+,Other,West,<50k,Retail Banking
+11725,Donna,Sampson,36-45,Female,East,200k+,Corporate
+11726,Dawn,Gibson,26-35,Male,East,50-100k,Corporate
+11727,Lauren,Strong,26-35,Other,North,200k+,Corporate
+11728,Christine,Hines,46-60,Other,West,200k+,Retail Banking
+11729,Ethan,Hernandez,36-45,Male,South,50-100k,Retail Banking
+11730,Jennifer,Lawrence,60+,Other,South,50-100k,Retail Banking
+11731,Sherri,Craig,46-60,Female,South,<50k,Retail Banking
+11732,Heather,Landry,36-45,Female,South,50-100k,Retail Banking
+11733,Matthew,Garcia,26-35,Other,West,100-200k,Priority
+11734,Ashley,Kennedy,26-35,Other,East,50-100k,Priority
+11735,Mason,Rosales,60+,Female,South,<50k,Retail Banking
+11736,Kevin,Everett,26-35,Male,East,50-100k,Corporate
+11737,Douglas,Sanchez,46-60,Male,North,100-200k,Priority
+11738,Candice,Anthony,46-60,Other,West,50-100k,Retail Banking
+11739,Katie,Pham,26-35,Male,North,200k+,Priority
+11740,Jacqueline,Castro,46-60,Male,South,200k+,Priority
+11741,Sarah,Daniels,60+,Other,East,200k+,Retail Banking
+11742,Judith,Allen,46-60,Female,South,<50k,Priority
+11743,Mallory,Davis,36-45,Male,East,<50k,Priority
+11744,Matthew,Bradley,18-25,Other,West,50-100k,Retail Banking
+11745,Linda,Rodriguez,36-45,Male,East,100-200k,Retail Banking
+11746,John,Wilson,46-60,Male,East,200k+,Corporate
+11747,Darren,Waters,26-35,Other,East,<50k,Corporate
+11748,James,Maddox,18-25,Male,West,100-200k,Priority
+11749,Kelsey,Cochran,26-35,Other,South,50-100k,Priority
+11750,Summer,Thompson,36-45,Other,North,100-200k,Priority
+11751,Stephen,Meyer,26-35,Other,South,100-200k,Priority
+11752,Paul,Peterson,60+,Male,West,<50k,Priority
+11753,Timothy,Schwartz,60+,Female,West,50-100k,Corporate
+11754,Roger,Mccoy,18-25,Other,South,<50k,Retail Banking
+11755,Richard,Reynolds,26-35,Male,South,100-200k,Priority
+11756,Ernest,Lane,46-60,Other,South,200k+,Retail Banking
+11757,Justin,Sanders,18-25,Other,East,50-100k,Priority
+11758,Terri,Jenkins,36-45,Female,North,50-100k,Priority
+11759,Warren,Schneider,26-35,Female,East,50-100k,Retail Banking
+11760,Patrick,Gonzalez,18-25,Male,East,200k+,Corporate
+11761,Jackson,Carroll,60+,Male,West,50-100k,Priority
+11762,Harry,Foster,46-60,Male,North,<50k,Priority
+11763,Christopher,Brown,36-45,Male,South,50-100k,Corporate
+11764,Bonnie,Ochoa,60+,Male,West,<50k,Corporate
+11765,Faith,Williamson,18-25,Female,East,200k+,Corporate
+11766,Brian,Rodriguez,46-60,Female,West,<50k,Priority
+11767,Valerie,Price,60+,Other,East,<50k,Corporate
+11768,Christian,Carter,18-25,Male,South,<50k,Priority
+11769,Edward,Gardner,26-35,Other,West,50-100k,Retail Banking
+11770,Joshua,Le,18-25,Male,South,<50k,Retail Banking
+11771,Richard,White,36-45,Male,West,100-200k,Corporate
+11772,Kirk,Baker,46-60,Female,South,50-100k,Priority
+11773,Charles,Wood,36-45,Other,North,200k+,Corporate
+11774,Robert,Wells,26-35,Female,East,<50k,Retail Banking
+11775,Colton,Smith,60+,Male,West,50-100k,Corporate
+11776,Jessica,Ferguson,46-60,Male,West,200k+,Retail Banking
+11777,Courtney,Fuller,60+,Male,North,50-100k,Corporate
+11778,Anthony,Gray,46-60,Female,South,50-100k,Retail Banking
+11779,Angel,Torres,18-25,Female,West,<50k,Priority
+11780,Samantha,Guerrero,60+,Female,West,100-200k,Retail Banking
+11781,Carolyn,Vega,60+,Male,South,200k+,Retail Banking
+11782,Andrew,Mccarthy,36-45,Female,North,100-200k,Corporate
+11783,Kara,Johnson,36-45,Female,South,200k+,Corporate
+11784,Denise,Wolf,36-45,Other,West,100-200k,Corporate
+11785,Andrew,Mueller,46-60,Female,East,<50k,Priority
+11786,Brenda,Scott,18-25,Other,West,<50k,Corporate
+11787,Nichole,Douglas,26-35,Male,West,200k+,Retail Banking
+11788,David,Miller,60+,Other,East,50-100k,Priority
+11789,Courtney,Moore,26-35,Female,East,<50k,Retail Banking
+11790,Edward,Washington,46-60,Female,North,100-200k,Priority
+11791,Dominique,Moore,60+,Other,East,200k+,Corporate
+11792,Alejandro,Nichols,46-60,Male,East,50-100k,Corporate
+11793,Julie,Ramirez,60+,Female,West,200k+,Corporate
+11794,Sarah,Riggs,36-45,Female,West,100-200k,Corporate
+11795,Brooke,Martinez,60+,Other,East,100-200k,Priority
+11796,Andre,Young,18-25,Male,West,200k+,Corporate
+11797,Michele,Browning,36-45,Male,South,100-200k,Retail Banking
+11798,Lindsey,Hunt,36-45,Female,North,200k+,Corporate
+11799,Kayla,Jones,18-25,Female,East,100-200k,Corporate
+11800,David,Garcia,26-35,Other,North,100-200k,Priority
+11801,Sean,Perez,26-35,Male,South,50-100k,Corporate
+11802,Bryan,Morris,36-45,Other,West,<50k,Corporate
+11803,Jacob,Simpson,36-45,Other,North,100-200k,Retail Banking
+11804,Robert,Schaefer,46-60,Female,North,100-200k,Priority
+11805,Ashley,King,18-25,Female,West,<50k,Corporate
+11806,Caroline,Ruiz,36-45,Female,North,100-200k,Priority
+11807,Jacob,Love,60+,Male,North,<50k,Retail Banking
+11808,Eduardo,Davis,18-25,Other,North,200k+,Corporate
+11809,Gary,Gonzalez,26-35,Male,South,200k+,Priority
+11810,Robert,Howell,18-25,Male,West,100-200k,Retail Banking
+11811,Virginia,Brown,46-60,Other,East,100-200k,Retail Banking
+11812,Stephen,Howard,60+,Other,West,50-100k,Corporate
+11813,Christopher,Roy,46-60,Female,South,200k+,Retail Banking
+11814,Nicole,Nelson,18-25,Other,West,200k+,Corporate
+11815,Carol,Martinez,60+,Female,South,100-200k,Corporate
+11816,Robin,Johnson,18-25,Other,North,<50k,Corporate
+11817,Edward,Barnes,26-35,Male,West,200k+,Corporate
+11818,Dustin,Woods,26-35,Other,West,<50k,Retail Banking
+11819,Andrew,Washington,18-25,Female,West,200k+,Corporate
+11820,Patrick,Walters,26-35,Female,South,200k+,Priority
+11821,Carmen,Gutierrez,26-35,Other,East,100-200k,Retail Banking
+11822,Carl,Logan,46-60,Male,North,50-100k,Corporate
+11823,Brian,Hill,60+,Other,West,100-200k,Retail Banking
+11824,Bryce,Stanley,46-60,Other,North,200k+,Retail Banking
+11825,Tiffany,Diaz,60+,Other,West,<50k,Corporate
+11826,Ashley,Smith,26-35,Male,East,100-200k,Retail Banking
+11827,Erin,Miller,36-45,Other,North,200k+,Priority
+11828,Peter,Taylor,46-60,Other,South,<50k,Retail Banking
+11829,Frank,Anderson,36-45,Other,East,100-200k,Priority
+11830,Stacy,Williams,36-45,Other,East,200k+,Priority
+11831,Ronnie,Parks,26-35,Male,East,50-100k,Corporate
+11832,Michael,Williamson,36-45,Male,South,50-100k,Priority
+11833,Jacob,Russell,26-35,Female,South,100-200k,Retail Banking
+11834,Rebecca,Wright,18-25,Male,East,<50k,Retail Banking
+11835,Shannon,Escobar,36-45,Other,North,200k+,Retail Banking
+11836,Maria,Nunez,36-45,Other,South,200k+,Corporate
+11837,Matthew,Harris,36-45,Male,East,200k+,Retail Banking
+11838,Evan,Waller,36-45,Male,North,50-100k,Priority
+11839,Nathaniel,Ortiz,26-35,Male,East,200k+,Retail Banking
+11840,Chad,Ray,46-60,Other,South,<50k,Corporate
+11841,Nicole,Norris,26-35,Other,West,<50k,Priority
+11842,Tiffany,Newton,60+,Other,East,200k+,Retail Banking
+11843,Charles,Peterson,46-60,Other,South,50-100k,Corporate
+11844,Lisa,Madden,46-60,Other,West,50-100k,Corporate
+11845,Denise,Rivers,18-25,Male,West,100-200k,Corporate
+11846,Danny,Fischer,36-45,Female,East,100-200k,Corporate
+11847,Brent,Shaw,60+,Male,North,100-200k,Corporate
+11848,Adam,Thomas,36-45,Other,North,100-200k,Priority
+11849,Sheryl,Greene,46-60,Male,South,100-200k,Corporate
+11850,Kelly,Moran,60+,Female,South,200k+,Corporate
+11851,Linda,Rios,18-25,Other,East,200k+,Retail Banking
+11852,Lynn,Chapman,46-60,Male,West,200k+,Retail Banking
+11853,Christopher,Eaton,60+,Male,East,200k+,Corporate
+11854,Roy,Cole,60+,Female,East,50-100k,Priority
+11855,Sheryl,Copeland,36-45,Male,West,50-100k,Retail Banking
+11856,Philip,Hendrix,60+,Male,East,200k+,Corporate
+11857,Angela,Lin,36-45,Male,North,<50k,Corporate
+11858,Robert,Wyatt,18-25,Other,North,200k+,Retail Banking
+11859,Kevin,Gonzalez,36-45,Male,West,50-100k,Corporate
+11860,David,Jones,26-35,Other,West,50-100k,Retail Banking
+11861,Charlene,Pruitt,36-45,Female,South,100-200k,Corporate
+11862,Karen,Lee,46-60,Female,South,200k+,Priority
+11863,Sara,Hall,46-60,Male,East,200k+,Priority
+11864,Nancy,Lopez,60+,Male,South,50-100k,Priority
+11865,Jessica,Brown,26-35,Female,North,200k+,Retail Banking
+11866,Aaron,Ferguson,46-60,Male,North,50-100k,Priority
+11867,Lisa,Herrera,46-60,Female,South,200k+,Corporate
+11868,Jason,Mueller,36-45,Male,South,<50k,Retail Banking
+11869,Paige,Jones,18-25,Female,West,<50k,Priority
+11870,Alexandra,Bonilla,18-25,Female,South,100-200k,Retail Banking
+11871,Sarah,Taylor,46-60,Female,West,<50k,Priority
+11872,Robert,Moore,60+,Male,North,100-200k,Corporate
+11873,Teresa,Martinez,18-25,Male,East,50-100k,Corporate
+11874,Alan,Rivera,60+,Female,North,200k+,Corporate
+11875,Timothy,Keller,36-45,Other,South,100-200k,Retail Banking
+11876,Kelly,Mahoney,18-25,Male,East,200k+,Corporate
+11877,John,Mueller,26-35,Other,South,50-100k,Corporate
+11878,Adam,Jennings,26-35,Other,East,200k+,Retail Banking
+11879,Barbara,Campbell,18-25,Other,East,<50k,Corporate
+11880,Kevin,Adams,26-35,Female,South,<50k,Priority
+11881,Johnny,Thomas,18-25,Other,West,100-200k,Corporate
+11882,Nina,Patterson,60+,Female,West,200k+,Priority
+11883,Christopher,Burke,26-35,Male,West,100-200k,Retail Banking
+11884,Willie,Cooper,18-25,Male,East,50-100k,Priority
+11885,Noah,Gonzalez,18-25,Female,North,50-100k,Retail Banking
+11886,Mark,Diaz,46-60,Other,West,100-200k,Retail Banking
+11887,Robert,Huynh,46-60,Female,North,50-100k,Priority
+11888,Cynthia,Burton,46-60,Male,East,<50k,Corporate
+11889,Danielle,Rogers,36-45,Other,North,50-100k,Retail Banking
+11890,Christopher,Lucero,36-45,Other,East,<50k,Priority
+11891,Tammy,Young,36-45,Other,West,<50k,Corporate
+11892,Julia,Wright,26-35,Female,East,50-100k,Priority
+11893,Mary,Davis,60+,Male,South,100-200k,Corporate
+11894,Kristen,Joyce,26-35,Other,South,<50k,Retail Banking
+11895,Amanda,Williams,18-25,Male,West,100-200k,Corporate
+11896,Michael,Lyons,46-60,Female,South,50-100k,Corporate
+11897,Randy,Smith,60+,Other,North,50-100k,Priority
+11898,Christopher,Olsen,46-60,Other,South,<50k,Priority
+11899,Justin,Collier,60+,Female,South,<50k,Retail Banking
+11900,Heidi,English,18-25,Male,South,50-100k,Retail Banking
+11901,Alexis,Brown,18-25,Male,North,<50k,Corporate
+11902,Diane,Henderson,60+,Male,North,100-200k,Priority
+11903,Travis,Martinez,36-45,Female,West,<50k,Retail Banking
+11904,Paul,Thomas,18-25,Male,East,<50k,Priority
+11905,Ashley,Gonzalez,60+,Male,North,200k+,Priority
+11906,Jesse,Dunn,26-35,Female,North,200k+,Retail Banking
+11907,Jesse,Frank,46-60,Other,South,50-100k,Retail Banking
+11908,Kristina,Mcclure,18-25,Female,South,200k+,Retail Banking
+11909,Jacqueline,King,36-45,Male,West,200k+,Priority
+11910,Stephen,Campbell,60+,Female,West,200k+,Corporate
+11911,Michael,Freeman,36-45,Male,West,200k+,Corporate
+11912,Charles,Woods,60+,Female,South,200k+,Corporate
+11913,Eileen,Campos,18-25,Male,West,<50k,Retail Banking
+11914,Ryan,Taylor,36-45,Female,North,50-100k,Corporate
+11915,Martha,Perez,36-45,Male,East,100-200k,Priority
+11916,Ashley,Dickson,36-45,Male,South,100-200k,Retail Banking
+11917,Christopher,Moses,46-60,Female,East,100-200k,Priority
+11918,Rebecca,Henderson,60+,Female,South,<50k,Retail Banking
+11919,Thomas,Gibson,36-45,Male,North,200k+,Corporate
+11920,Phyllis,Mann,60+,Male,North,<50k,Corporate
+11921,Anne,Rodriguez,46-60,Other,South,<50k,Retail Banking
+11922,Brian,Adams,46-60,Other,East,50-100k,Retail Banking
+11923,Mathew,Ferguson,18-25,Male,East,200k+,Corporate
+11924,Craig,Mitchell,46-60,Female,North,<50k,Corporate
+11925,Jane,Harris,46-60,Female,South,50-100k,Priority
+11926,Jeffrey,Hoffman,18-25,Other,North,200k+,Priority
+11927,James,Lane,18-25,Other,East,50-100k,Corporate
+11928,Brian,Saunders,46-60,Female,South,50-100k,Priority
+11929,Karen,Brown,18-25,Male,East,200k+,Corporate
+11930,Kathleen,Kennedy,26-35,Other,West,<50k,Priority
+11931,Paige,Williamson,18-25,Male,East,100-200k,Corporate
+11932,Laura,Cameron,60+,Male,North,100-200k,Priority
+11933,Lisa,Rodriguez,36-45,Other,West,<50k,Retail Banking
+11934,Gary,Webb,46-60,Female,West,50-100k,Priority
+11935,Kristin,Gonzales,60+,Male,North,100-200k,Corporate
+11936,Dana,Wilson,36-45,Male,East,100-200k,Priority
+11937,Melanie,Vega,18-25,Male,South,200k+,Corporate
+11938,Paige,Morrow,26-35,Other,South,200k+,Retail Banking
+11939,Tony,Kaufman,26-35,Female,West,100-200k,Corporate
+11940,Michael,Lewis,36-45,Male,North,50-100k,Retail Banking
+11941,Brandi,Hamilton,26-35,Male,East,200k+,Priority
+11942,Dominic,Cameron,46-60,Female,West,<50k,Priority
+11943,Loretta,Sharp,46-60,Male,North,<50k,Retail Banking
+11944,Madison,Ross,18-25,Other,East,<50k,Priority
+11945,Robert,Michael,18-25,Male,West,100-200k,Corporate
+11946,Nicholas,Cross,36-45,Female,North,200k+,Priority
+11947,Erica,Hill,36-45,Male,North,50-100k,Priority
+11948,David,Wilcox,46-60,Female,North,<50k,Corporate
+11949,Christopher,Edwards,18-25,Male,South,200k+,Corporate
+11950,Christopher,Vazquez,18-25,Male,East,200k+,Retail Banking
+11951,Bailey,Horn,26-35,Male,East,100-200k,Priority
+11952,Matthew,Zamora,26-35,Male,West,100-200k,Retail Banking
+11953,Kelli,Long,60+,Other,East,100-200k,Corporate
+11954,Melinda,Hamilton,36-45,Other,North,<50k,Corporate
+11955,Lisa,Morris,26-35,Other,South,50-100k,Priority
+11956,Brandon,Lyons,36-45,Female,East,200k+,Corporate
+11957,Andrew,Wu,36-45,Male,East,50-100k,Priority
+11958,Jennifer,Wu,26-35,Female,North,50-100k,Retail Banking
+11959,Laura,Paul,18-25,Female,West,100-200k,Retail Banking
+11960,Michael,Vega,26-35,Other,North,100-200k,Corporate
+11961,Laura,Compton,36-45,Female,North,50-100k,Priority
+11962,William,Wheeler,36-45,Male,South,100-200k,Corporate
+11963,Richard,Fry,26-35,Other,East,50-100k,Priority
+11964,Jason,Travis,18-25,Male,North,50-100k,Priority
+11965,Angela,Ward,46-60,Male,East,50-100k,Retail Banking
+11966,Donna,Lopez,36-45,Female,South,200k+,Corporate
+11967,Donald,Green,60+,Female,East,<50k,Retail Banking
+11968,John,Wheeler,60+,Female,East,50-100k,Retail Banking
+11969,Vicki,Owens,46-60,Female,South,<50k,Priority
+11970,Jasmine,West,36-45,Male,West,<50k,Priority
+11971,Elizabeth,Green,26-35,Male,West,100-200k,Priority
+11972,Brett,Gibson,36-45,Other,North,<50k,Priority
+11973,Matthew,Miller,26-35,Other,West,100-200k,Corporate
+11974,Michelle,Strong,46-60,Male,North,200k+,Retail Banking
+11975,Jeffrey,Zavala,36-45,Other,West,<50k,Retail Banking
+11976,Thomas,Robinson,46-60,Female,North,100-200k,Corporate
+11977,Jasmine,Livingston,26-35,Male,North,50-100k,Retail Banking
+11978,Jasmine,Green,46-60,Male,North,<50k,Corporate
+11979,Richard,Bishop,46-60,Female,East,200k+,Corporate
+11980,Daniel,Palmer,46-60,Male,North,100-200k,Corporate
+11981,Michael,Murillo,46-60,Male,North,<50k,Priority
+11982,Emily,Price,18-25,Other,South,50-100k,Priority
+11983,Bobby,Robertson,60+,Female,West,200k+,Priority
+11984,Crystal,Potter,36-45,Male,South,<50k,Retail Banking
+11985,Lisa,Casey,36-45,Male,South,100-200k,Retail Banking
+11986,David,Fields,60+,Other,North,50-100k,Corporate
+11987,Keith,Reeves,60+,Female,North,100-200k,Corporate
+11988,Julie,Gonzalez,46-60,Other,East,50-100k,Corporate
+11989,Jason,Miller,60+,Female,West,200k+,Corporate
+11990,Megan,Foley,36-45,Other,North,200k+,Retail Banking
+11991,Joshua,Wolfe,60+,Male,South,<50k,Priority
+11992,Mary,Clark,26-35,Other,East,50-100k,Corporate
+11993,Kathleen,Williams,46-60,Male,East,<50k,Priority
+11994,Caleb,Brown,60+,Female,West,200k+,Priority
+11995,Ryan,Wilson,18-25,Male,North,200k+,Corporate
+11996,Stephanie,Horton,26-35,Other,South,50-100k,Retail Banking
+11997,Elizabeth,Brock,26-35,Male,North,50-100k,Corporate
+11998,Thomas,Sullivan,46-60,Female,North,100-200k,Retail Banking
+11999,Cheyenne,Sanchez,46-60,Other,West,<50k,Retail Banking
+12000,Martin,Crosby,26-35,Other,North,<50k,Priority
