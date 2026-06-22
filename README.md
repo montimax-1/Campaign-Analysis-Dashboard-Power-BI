@@ -105,6 +105,7 @@ campaign-analysis-dashboard/
 > *(Add your screenshots here after uploading to the `/screenshots` folder)*
 
 ![Campaign Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/b611e9bcc15d40614aae5f6c8bd0a79be0b13e67/screenshots/Campaign%20Analysis%20DAshbaord1-images-0.jpg)
+![Channel Performance Overview](https://github.com/montimax-1/Campaign-Analysis-Dashboard-Power-BI/blob/84766d23297c00452257fa9006d6fba17b2df475/screenshots/Campaign%20Analysis%20DAshbaord1-images-1.jpg)
 
 ---
 
